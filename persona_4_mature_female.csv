@@ -1,0 +1,610 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Color,Season,Review Rating,Subscription Status,Discount Applied,Previous Purchases,Payment Method,Frequency of Purchases,Age Group,Purchase Level
+2657,52,Female,Shorts,Clothing,76,Indiana,L,Yellow,Winter,3.6,No,No,29,Bank Transfer,Fortnightly,46-55,High
+2658,52,Female,Dress,Clothing,81,Texas,M,Pink,Summer,2.7,No,No,7,Credit Card,Fortnightly,46-55,High
+2659,52,Female,Handbag,Accessories,47,Ohio,XL,Indigo,Summer,3.2,No,No,39,PayPal,Monthly,46-55,Medium
+2660,35,Female,Boots,Footwear,35,Kansas,L,Gray,Summer,4.4,No,No,46,Credit Card,Fortnightly,26-35,Medium
+2662,43,Female,Boots,Footwear,96,Michigan,XL,Olive,Fall,4.8,No,No,20,Bank Transfer,Annually,36-45,High
+2664,46,Female,Sneakers,Footwear,52,Wisconsin,L,Silver,Fall,2.9,No,No,23,Bank Transfer,Annually,46-55,Medium
+2667,49,Female,Sandals,Footwear,95,Ohio,S,Brown,Winter,4.1,No,No,14,Venmo,Fortnightly,46-55,High
+2668,48,Female,Boots,Footwear,47,Maryland,M,Orange,Summer,4.1,No,No,31,Cash,Fortnightly,46-55,Medium
+2670,39,Female,Belt,Accessories,28,Illinois,L,Teal,Spring,2.8,No,No,31,Credit Card,Weekly,36-45,Low
+2672,37,Female,Sandals,Footwear,64,Alabama,XL,Gray,Winter,4.8,No,No,41,PayPal,Every 3 Months,36-45,Medium
+2675,40,Female,Hat,Accessories,41,Florida,S,Charcoal,Fall,3.3,No,No,15,Cash,Every 3 Months,36-45,Medium
+2677,43,Female,Backpack,Accessories,77,Kentucky,M,Maroon,Spring,3.6,No,No,3,Cash,Fortnightly,36-45,High
+2678,45,Female,Shorts,Clothing,43,Connecticut,L,Olive,Spring,3.8,No,No,6,PayPal,Every 3 Months,36-45,Medium
+2679,33,Female,Belt,Accessories,91,Montana,M,Magenta,Spring,3.4,No,No,34,Credit Card,Bi-Weekly,26-35,High
+2680,53,Female,Shorts,Clothing,68,Montana,S,Yellow,Spring,3.8,No,No,7,Debit Card,Quarterly,46-55,Medium
+2681,44,Female,Socks,Clothing,37,Nebraska,L,Indigo,Fall,3.3,No,No,21,Venmo,Annually,36-45,Medium
+2685,46,Female,Dress,Clothing,45,Washington,M,Gray,Summer,4.7,No,No,42,Credit Card,Bi-Weekly,46-55,Medium
+2687,40,Female,Socks,Clothing,72,Georgia,M,Black,Winter,3.8,No,No,33,Cash,Fortnightly,36-45,High
+2689,53,Female,Handbag,Accessories,63,West Virginia,XL,Turquoise,Spring,2.9,No,No,18,Credit Card,Every 3 Months,46-55,Medium
+2691,44,Female,Belt,Accessories,32,New Mexico,L,Yellow,Summer,4.7,No,No,18,Bank Transfer,Weekly,36-45,Medium
+2692,43,Female,Pants,Clothing,25,Nebraska,L,Blue,Winter,3.3,No,No,48,Cash,Monthly,36-45,Low
+2693,40,Female,Sneakers,Footwear,90,Washington,XL,Violet,Spring,4.2,No,No,18,Debit Card,Every 3 Months,36-45,High
+2694,55,Female,Boots,Footwear,70,Hawaii,L,Lavender,Summer,2.6,No,No,46,Cash,Quarterly,46-55,Medium
+2696,50,Female,Hat,Accessories,92,Tennessee,M,Orange,Fall,3.6,No,No,10,PayPal,Bi-Weekly,46-55,High
+2698,42,Female,Jacket,Outerwear,52,Delaware,L,Red,Winter,3.2,No,No,36,Bank Transfer,Quarterly,36-45,Medium
+2699,55,Female,Hoodie,Clothing,57,Virginia,M,Magenta,Summer,3.6,No,No,34,Venmo,Quarterly,46-55,Medium
+2702,49,Female,Sweater,Clothing,30,Idaho,L,Silver,Summer,2.8,No,No,18,Bank Transfer,Fortnightly,46-55,Low
+2705,52,Female,Dress,Clothing,54,Tennessee,L,Beige,Spring,3.4,No,No,35,Debit Card,Weekly,46-55,Medium
+2708,32,Female,Backpack,Accessories,88,Nebraska,M,Pink,Fall,4.2,No,No,19,Cash,Weekly,26-35,High
+2710,35,Female,Shirt,Clothing,54,Illinois,S,Cyan,Winter,2.9,No,No,9,Credit Card,Bi-Weekly,26-35,Medium
+2713,37,Female,Jacket,Outerwear,95,North Dakota,L,Brown,Fall,4.6,No,No,7,Debit Card,Quarterly,36-45,High
+2715,53,Female,Sweater,Clothing,45,Iowa,S,Olive,Winter,3.6,No,No,16,Credit Card,Bi-Weekly,46-55,Medium
+2717,47,Female,Shoes,Footwear,40,Colorado,L,Black,Spring,2.7,No,No,21,Debit Card,Weekly,46-55,Medium
+2721,55,Female,Scarf,Accessories,52,Maryland,M,Peach,Spring,2.8,No,No,45,Bank Transfer,Quarterly,46-55,Medium
+2724,54,Female,Shoes,Footwear,49,Texas,XL,Brown,Summer,2.9,No,No,3,PayPal,Every 3 Months,46-55,Medium
+2725,52,Female,Sneakers,Footwear,91,Missouri,M,Brown,Spring,2.5,No,No,11,Debit Card,Fortnightly,46-55,High
+2727,33,Female,Belt,Accessories,92,Michigan,L,Blue,Winter,3.3,No,No,11,PayPal,Bi-Weekly,26-35,High
+2728,40,Female,Shirt,Clothing,87,Colorado,L,Charcoal,Winter,3.7,No,No,47,Credit Card,Fortnightly,36-45,High
+2730,31,Female,Gloves,Accessories,71,Montana,S,Violet,Summer,4.1,No,No,32,Credit Card,Monthly,26-35,High
+2732,52,Female,Handbag,Accessories,33,Wisconsin,M,Red,Summer,2.5,No,No,44,Bank Transfer,Quarterly,46-55,Medium
+2734,31,Female,Backpack,Accessories,83,North Carolina,M,Magenta,Summer,4.7,No,No,46,PayPal,Annually,26-35,High
+2736,46,Female,Skirt,Clothing,29,California,M,Yellow,Spring,3.0,No,No,2,PayPal,Bi-Weekly,46-55,Low
+2737,44,Female,Hoodie,Clothing,25,Montana,M,Pink,Spring,4.8,No,No,45,Credit Card,Annually,36-45,Low
+2739,50,Female,Sneakers,Footwear,81,Ohio,M,Charcoal,Summer,4.3,No,No,39,Venmo,Every 3 Months,46-55,High
+2740,33,Female,Shirt,Clothing,80,Alaska,XL,Blue,Winter,2.5,No,No,39,Credit Card,Every 3 Months,26-35,High
+2745,38,Female,Shirt,Clothing,66,Wyoming,M,Silver,Winter,3.3,No,No,40,Credit Card,Monthly,36-45,Medium
+2747,39,Female,Hoodie,Clothing,25,Ohio,M,Orange,Fall,3.7,No,No,21,PayPal,Every 3 Months,36-45,Low
+2751,51,Female,Sandals,Footwear,66,Alaska,L,Pink,Spring,2.7,No,No,26,PayPal,Every 3 Months,46-55,Medium
+2753,48,Female,Sweater,Clothing,64,Colorado,S,Peach,Winter,4.0,No,No,30,Venmo,Bi-Weekly,46-55,Medium
+2757,42,Female,Hat,Accessories,23,Minnesota,L,Violet,Winter,4.1,No,No,41,PayPal,Monthly,36-45,Low
+2758,39,Female,Hat,Accessories,98,Delaware,XL,Brown,Fall,4.3,No,No,11,Venmo,Monthly,36-45,High
+2759,32,Female,Blouse,Clothing,98,Illinois,M,Purple,Summer,3.2,No,No,8,Bank Transfer,Bi-Weekly,26-35,High
+2761,41,Female,Skirt,Clothing,82,Alaska,S,Violet,Fall,5.0,No,No,41,Credit Card,Bi-Weekly,36-45,High
+2762,31,Female,Sneakers,Footwear,82,Michigan,M,Purple,Fall,3.4,No,No,3,Credit Card,Every 3 Months,26-35,High
+2768,31,Female,Dress,Clothing,95,Iowa,M,Green,Spring,4.5,No,No,31,Cash,Monthly,26-35,High
+2769,55,Female,Blouse,Clothing,25,Kansas,M,Beige,Spring,3.8,No,No,28,PayPal,Bi-Weekly,46-55,Low
+2770,32,Female,Shirt,Clothing,89,Oklahoma,L,Lavender,Fall,3.0,No,No,13,Cash,Weekly,26-35,High
+2771,50,Female,Boots,Footwear,44,Nebraska,S,Blue,Fall,3.3,No,No,22,Bank Transfer,Quarterly,46-55,Medium
+2774,39,Female,Pants,Clothing,98,Arizona,S,Maroon,Spring,4.6,No,No,45,Bank Transfer,Quarterly,36-45,High
+2776,37,Female,Socks,Clothing,25,Montana,L,Red,Fall,3.6,No,No,16,Debit Card,Weekly,36-45,Low
+2777,46,Female,Scarf,Accessories,62,Wyoming,L,Green,Fall,2.9,No,No,6,Bank Transfer,Annually,46-55,Medium
+2778,52,Female,Blouse,Clothing,24,Idaho,M,Magenta,Fall,4.8,No,No,28,Credit Card,Every 3 Months,46-55,Low
+2781,33,Female,Boots,Footwear,70,Ohio,M,Charcoal,Winter,4.1,No,No,29,PayPal,Fortnightly,26-35,Medium
+2783,41,Female,Gloves,Accessories,34,Idaho,S,Cyan,Spring,3.8,No,No,30,PayPal,Annually,36-45,Medium
+2785,33,Female,Skirt,Clothing,70,Idaho,M,Black,Winter,3.1,No,No,12,PayPal,Every 3 Months,26-35,Medium
+2786,53,Female,Blouse,Clothing,80,Louisiana,S,Green,Summer,2.9,No,No,13,Bank Transfer,Monthly,46-55,High
+2787,54,Female,Handbag,Accessories,51,Colorado,M,Violet,Spring,3.8,No,No,41,Debit Card,Every 3 Months,46-55,Medium
+2788,36,Female,Boots,Footwear,79,West Virginia,XL,Pink,Spring,4.1,No,No,4,Venmo,Fortnightly,36-45,High
+2791,34,Female,Socks,Clothing,63,Maine,M,Black,Spring,4.5,No,No,24,Debit Card,Annually,26-35,Medium
+2792,43,Female,Gloves,Accessories,60,Iowa,M,Yellow,Fall,2.8,No,No,14,Venmo,Fortnightly,36-45,Medium
+2793,54,Female,Shorts,Clothing,44,Kentucky,L,Violet,Winter,3.2,No,No,11,Credit Card,Weekly,46-55,Medium
+2794,37,Female,Boots,Footwear,57,Massachusetts,M,Silver,Spring,3.1,No,No,27,Debit Card,Bi-Weekly,36-45,Medium
+2795,33,Female,Jacket,Outerwear,24,New York,M,Gold,Fall,3.3,No,No,7,Cash,Fortnightly,26-35,Low
+2796,33,Female,Scarf,Accessories,35,Nebraska,M,Magenta,Winter,3.4,No,No,49,PayPal,Annually,26-35,Medium
+2797,55,Female,Jacket,Outerwear,73,Oklahoma,M,Red,Winter,3.8,No,No,21,Cash,Annually,46-55,High
+2799,52,Female,Hoodie,Clothing,20,Rhode Island,XL,Red,Winter,4.8,No,No,37,PayPal,Weekly,46-55,Low
+2804,46,Female,T-shirt,Clothing,44,Idaho,M,Violet,Winter,3.3,No,No,31,Bank Transfer,Monthly,46-55,Medium
+2807,45,Female,Blouse,Clothing,39,South Carolina,L,Purple,Spring,2.7,No,No,50,Credit Card,Annually,36-45,Medium
+2809,49,Female,Skirt,Clothing,62,Tennessee,M,Beige,Spring,3.9,No,No,45,PayPal,Every 3 Months,46-55,Medium
+2814,45,Female,Shirt,Clothing,50,Vermont,S,Maroon,Summer,3.3,No,No,39,Debit Card,Quarterly,36-45,Medium
+2815,31,Female,T-shirt,Clothing,32,Minnesota,L,Gold,Winter,3.6,No,No,14,Bank Transfer,Monthly,26-35,Medium
+2816,33,Female,Blouse,Clothing,67,Idaho,L,Black,Fall,3.9,No,No,40,Venmo,Every 3 Months,26-35,Medium
+2817,43,Female,Skirt,Clothing,28,Maryland,M,Black,Spring,3.5,No,No,45,Venmo,Weekly,36-45,Low
+2819,46,Female,Shorts,Clothing,73,California,M,Turquoise,Fall,4.7,No,No,12,Debit Card,Annually,46-55,High
+2822,35,Female,Shoes,Footwear,72,Georgia,L,Olive,Summer,4.5,No,No,37,Venmo,Monthly,26-35,High
+2825,39,Female,Hat,Accessories,90,Utah,M,Purple,Fall,4.0,No,No,49,Debit Card,Quarterly,36-45,High
+2827,32,Female,Handbag,Accessories,43,Florida,L,Brown,Fall,3.6,No,No,23,Venmo,Annually,26-35,Medium
+2832,34,Female,Hoodie,Clothing,53,Virginia,L,Pink,Winter,5.0,No,No,4,Credit Card,Weekly,26-35,Medium
+2834,43,Female,Jeans,Clothing,56,Arkansas,M,Teal,Fall,3.3,No,No,19,Cash,Monthly,36-45,Medium
+2835,39,Female,Jacket,Outerwear,43,Texas,M,Indigo,Fall,2.9,No,No,17,Credit Card,Weekly,36-45,Medium
+2836,33,Female,T-shirt,Clothing,84,Vermont,S,Pink,Winter,4.9,No,No,7,Venmo,Annually,26-35,High
+2837,51,Female,Pants,Clothing,50,Wyoming,M,Charcoal,Winter,5.0,No,No,21,Cash,Bi-Weekly,46-55,Medium
+2839,51,Female,Jacket,Outerwear,50,Maine,M,Blue,Fall,3.7,No,No,2,Bank Transfer,Weekly,46-55,Medium
+2841,40,Female,T-shirt,Clothing,47,West Virginia,L,Pink,Spring,3.5,No,No,41,Cash,Annually,36-45,Medium
+2844,51,Female,Sweater,Clothing,26,Ohio,M,White,Summer,3.6,No,No,41,Venmo,Weekly,46-55,Low
+2845,32,Female,Hat,Accessories,79,New Mexico,M,Indigo,Summer,4.4,No,No,42,Venmo,Annually,26-35,High
+2847,50,Female,Socks,Clothing,36,Oklahoma,XL,Black,Fall,2.8,No,No,15,PayPal,Bi-Weekly,46-55,Medium
+2849,33,Female,Boots,Footwear,72,Wisconsin,L,Gray,Fall,4.9,No,No,28,Bank Transfer,Quarterly,26-35,High
+2853,40,Female,Belt,Accessories,71,New York,M,Magenta,Spring,3.0,No,No,30,Venmo,Weekly,36-45,High
+2854,37,Female,Hat,Accessories,48,Pennsylvania,M,Magenta,Winter,3.2,No,No,9,PayPal,Weekly,36-45,Medium
+2855,36,Female,Sandals,Footwear,28,Delaware,M,Beige,Fall,2.7,No,No,25,Venmo,Monthly,36-45,Low
+2858,44,Female,Dress,Clothing,93,Utah,S,Maroon,Spring,3.8,No,No,35,Debit Card,Monthly,36-45,High
+2859,34,Female,Jeans,Clothing,87,Maryland,L,Teal,Summer,3.8,No,No,46,Bank Transfer,Monthly,26-35,High
+2860,31,Female,Shorts,Clothing,32,Utah,L,Yellow,Fall,3.4,No,No,29,Bank Transfer,Annually,26-35,Medium
+2864,37,Female,T-shirt,Clothing,56,Connecticut,M,Yellow,Fall,3.9,No,No,18,Venmo,Monthly,36-45,Medium
+2867,54,Female,Blouse,Clothing,75,Connecticut,S,Violet,Summer,3.1,No,No,19,Cash,Annually,46-55,High
+2869,45,Female,Backpack,Accessories,49,Colorado,M,Black,Winter,2.6,No,No,42,PayPal,Every 3 Months,36-45,Medium
+2871,47,Female,Jewelry,Accessories,34,North Dakota,M,Blue,Winter,4.8,No,No,49,Debit Card,Every 3 Months,46-55,Medium
+2872,46,Female,Shorts,Clothing,43,Idaho,S,Black,Summer,2.7,No,No,40,Venmo,Bi-Weekly,46-55,Medium
+2874,44,Female,Sweater,Clothing,40,Montana,M,Teal,Spring,2.6,No,No,8,Bank Transfer,Monthly,36-45,Medium
+2875,36,Female,Shirt,Clothing,29,Colorado,L,Silver,Summer,3.1,No,No,2,Debit Card,Annually,36-45,Low
+2878,32,Female,Socks,Clothing,46,New Jersey,M,Silver,Summer,3.6,No,No,34,Venmo,Monthly,26-35,Medium
+2882,38,Female,Backpack,Accessories,90,Texas,M,Cyan,Winter,4.2,No,No,6,Bank Transfer,Annually,36-45,High
+2885,55,Female,Boots,Footwear,50,Arkansas,M,Purple,Summer,3.4,No,No,47,Credit Card,Every 3 Months,46-55,Medium
+2887,42,Female,Hat,Accessories,33,Utah,L,Blue,Spring,4.2,No,No,29,PayPal,Weekly,36-45,Medium
+2891,39,Female,Jeans,Clothing,55,North Dakota,M,Violet,Winter,3.7,No,No,23,Credit Card,Monthly,36-45,Medium
+2892,47,Female,T-shirt,Clothing,73,Ohio,XL,Black,Winter,2.5,No,No,10,PayPal,Monthly,46-55,High
+2895,35,Female,Jewelry,Accessories,32,Kentucky,S,Brown,Spring,3.5,No,No,41,Venmo,Annually,26-35,Medium
+2898,43,Female,Jacket,Outerwear,59,Montana,L,Violet,Fall,2.5,No,No,2,Cash,Fortnightly,36-45,Medium
+2900,50,Female,Boots,Footwear,64,Nebraska,M,Gold,Spring,4.2,No,No,22,Bank Transfer,Fortnightly,46-55,Medium
+2901,41,Female,Blouse,Clothing,67,Maryland,XL,Violet,Winter,4.0,No,No,23,Cash,Bi-Weekly,36-45,Medium
+2902,41,Female,Blouse,Clothing,43,Alabama,L,Olive,Winter,2.6,No,No,46,Credit Card,Quarterly,36-45,Medium
+2904,38,Female,Scarf,Accessories,39,Delaware,S,Teal,Spring,3.5,No,No,24,Credit Card,Every 3 Months,36-45,Medium
+2905,41,Female,Sandals,Footwear,41,Iowa,M,Gray,Spring,4.0,No,No,43,Venmo,Monthly,36-45,Medium
+2909,43,Female,Blouse,Clothing,87,Texas,M,Beige,Winter,3.1,No,No,15,Debit Card,Every 3 Months,36-45,High
+2911,32,Female,Belt,Accessories,32,Mississippi,M,Blue,Summer,2.9,No,No,41,Credit Card,Monthly,26-35,Medium
+2913,48,Female,Shoes,Footwear,37,Oregon,M,Yellow,Winter,4.0,No,No,27,Cash,Bi-Weekly,46-55,Medium
+2914,43,Female,Coat,Outerwear,83,Wyoming,L,Cyan,Winter,3.5,No,No,12,Cash,Every 3 Months,36-45,High
+2915,45,Female,Sweater,Clothing,72,Pennsylvania,M,Yellow,Fall,3.8,No,No,1,Debit Card,Bi-Weekly,36-45,High
+2921,33,Female,Sunglasses,Accessories,72,Texas,XL,Brown,Spring,4.9,No,No,3,Debit Card,Bi-Weekly,26-35,High
+2923,45,Female,Sunglasses,Accessories,68,Kentucky,L,Beige,Winter,3.5,No,No,16,PayPal,Quarterly,36-45,Medium
+2925,47,Female,Shirt,Clothing,64,Rhode Island,L,Indigo,Winter,3.7,No,No,37,Debit Card,Every 3 Months,46-55,Medium
+2926,54,Female,Sweater,Clothing,91,Illinois,M,Maroon,Spring,2.8,No,No,43,Credit Card,Every 3 Months,46-55,High
+2928,45,Female,Shirt,Clothing,24,Missouri,M,Black,Summer,2.7,No,No,15,Venmo,Bi-Weekly,36-45,Low
+2929,40,Female,Jewelry,Accessories,80,Alabama,L,Yellow,Spring,3.6,No,No,17,Credit Card,Weekly,36-45,High
+2930,31,Female,Socks,Clothing,53,Maine,XL,White,Winter,4.5,No,No,42,Venmo,Fortnightly,26-35,Medium
+2931,38,Female,T-shirt,Clothing,50,Mississippi,M,Orange,Spring,4.0,No,No,14,Venmo,Monthly,36-45,Medium
+2932,36,Female,Jewelry,Accessories,31,Alabama,M,Magenta,Fall,4.5,No,No,49,Credit Card,Bi-Weekly,36-45,Medium
+2935,38,Female,Gloves,Accessories,22,Idaho,M,Orange,Fall,4.7,No,No,41,Bank Transfer,Quarterly,36-45,Low
+2937,31,Female,Skirt,Clothing,34,Washington,M,White,Spring,3.6,No,No,46,PayPal,Weekly,26-35,Medium
+2940,32,Female,Sweater,Clothing,46,Kentucky,M,Beige,Winter,4.3,No,No,34,Venmo,Weekly,26-35,Medium
+2942,38,Female,Skirt,Clothing,86,Pennsylvania,L,Purple,Spring,3.7,No,No,27,PayPal,Monthly,36-45,High
+2943,54,Female,Socks,Clothing,63,Hawaii,M,Brown,Summer,2.6,No,No,37,Bank Transfer,Weekly,46-55,Medium
+2945,50,Female,Sneakers,Footwear,95,New York,XL,Cyan,Summer,3.9,No,No,4,Venmo,Every 3 Months,46-55,High
+2946,32,Female,Belt,Accessories,49,Delaware,M,Charcoal,Summer,4.8,No,No,1,Credit Card,Every 3 Months,26-35,Medium
+2947,38,Female,Pants,Clothing,77,Hawaii,L,Purple,Spring,2.8,No,No,29,Bank Transfer,Quarterly,36-45,High
+2948,52,Female,Jewelry,Accessories,63,Nebraska,L,Peach,Spring,4.4,No,No,50,Venmo,Annually,46-55,Medium
+2952,47,Female,Scarf,Accessories,99,Arkansas,L,Maroon,Fall,4.6,No,No,14,Cash,Weekly,46-55,High
+2953,50,Female,Belt,Accessories,24,Alabama,M,Peach,Spring,4.9,No,No,5,Debit Card,Monthly,46-55,Low
+2954,45,Female,Dress,Clothing,82,Maryland,M,Silver,Summer,4.8,No,No,11,Credit Card,Annually,36-45,High
+2955,33,Female,T-shirt,Clothing,28,South Dakota,M,Indigo,Winter,3.9,No,No,15,Credit Card,Annually,26-35,Low
+2956,42,Female,Boots,Footwear,67,Vermont,M,Silver,Winter,2.6,No,No,46,Credit Card,Annually,36-45,Medium
+2957,52,Female,Dress,Clothing,88,Montana,M,Olive,Fall,3.7,No,No,30,Venmo,Monthly,46-55,High
+2959,55,Female,Skirt,Clothing,100,Ohio,M,Black,Summer,4.5,No,No,28,PayPal,Monthly,46-55,High
+2960,38,Female,Handbag,Accessories,28,Texas,L,Maroon,Summer,4.7,No,No,9,PayPal,Quarterly,36-45,Low
+2962,33,Female,Hoodie,Clothing,43,New Hampshire,S,Gold,Fall,2.8,No,No,21,Debit Card,Bi-Weekly,26-35,Medium
+2964,52,Female,Boots,Footwear,97,Maine,M,Brown,Spring,3.6,No,No,28,Credit Card,Weekly,46-55,High
+2965,44,Female,Coat,Outerwear,25,Ohio,S,White,Fall,3.8,No,No,13,Venmo,Fortnightly,36-45,Low
+2966,48,Female,Scarf,Accessories,45,Delaware,M,Blue,Summer,4.4,No,No,25,PayPal,Fortnightly,46-55,Medium
+2967,52,Female,Boots,Footwear,49,Oklahoma,L,Orange,Fall,2.8,No,No,38,Debit Card,Every 3 Months,46-55,Medium
+2968,34,Female,Sneakers,Footwear,36,Indiana,L,Silver,Summer,3.4,No,No,40,Venmo,Annually,26-35,Medium
+2970,36,Female,Belt,Accessories,62,Vermont,S,Blue,Fall,4.3,No,No,20,Cash,Every 3 Months,36-45,Medium
+2973,31,Female,Jacket,Outerwear,39,New York,S,Indigo,Fall,4.2,No,No,11,Venmo,Every 3 Months,26-35,Medium
+2978,38,Female,Shorts,Clothing,47,Washington,L,Gold,Winter,3.4,No,No,20,Venmo,Annually,36-45,Medium
+2979,53,Female,Shorts,Clothing,56,Idaho,S,Cyan,Spring,3.9,No,No,49,Bank Transfer,Fortnightly,46-55,Medium
+2980,31,Female,Jeans,Clothing,91,Louisiana,L,Olive,Fall,2.6,No,No,14,PayPal,Weekly,26-35,High
+2983,33,Female,Dress,Clothing,45,Wisconsin,M,Orange,Summer,3.6,No,No,4,Credit Card,Weekly,26-35,Medium
+2985,45,Female,Gloves,Accessories,32,Texas,L,Red,Spring,4.3,No,No,36,Debit Card,Bi-Weekly,36-45,Medium
+2986,46,Female,Belt,Accessories,36,Hawaii,S,Teal,Summer,3.0,No,No,21,Cash,Bi-Weekly,46-55,Medium
+2990,46,Female,Belt,Accessories,20,Rhode Island,XL,Teal,Summer,4.3,No,No,6,Credit Card,Weekly,46-55,Low
+2993,41,Female,Socks,Clothing,64,North Dakota,M,Charcoal,Spring,3.9,No,No,25,Venmo,Weekly,36-45,Medium
+2994,32,Female,Jacket,Outerwear,21,Kansas,L,Indigo,Spring,4.2,No,No,18,Cash,Bi-Weekly,26-35,Low
+2998,41,Female,Sweater,Clothing,40,Idaho,S,Yellow,Spring,2.7,No,No,14,Venmo,Every 3 Months,36-45,Medium
+2999,31,Female,Hoodie,Clothing,53,Alaska,M,Red,Summer,4.7,No,No,30,Debit Card,Quarterly,26-35,Medium
+3000,31,Female,Sunglasses,Accessories,48,New Hampshire,S,Charcoal,Winter,3.8,No,No,10,Cash,Monthly,26-35,Medium
+3004,51,Female,Blouse,Clothing,53,Oregon,M,Brown,Fall,2.8,No,No,13,Credit Card,Every 3 Months,46-55,Medium
+3005,45,Female,Skirt,Clothing,79,Arizona,M,Lavender,Winter,3.7,No,No,23,Venmo,Fortnightly,36-45,High
+3007,37,Female,Dress,Clothing,99,Utah,M,Olive,Summer,3.7,No,No,17,Venmo,Bi-Weekly,36-45,High
+3009,39,Female,Shoes,Footwear,86,New Mexico,M,Gold,Winter,4.9,No,No,19,PayPal,Weekly,36-45,High
+3013,42,Female,Belt,Accessories,65,Idaho,M,Teal,Fall,3.5,No,No,16,PayPal,Annually,36-45,Medium
+3014,41,Female,Skirt,Clothing,55,Arizona,L,Peach,Summer,4.2,No,No,13,Cash,Monthly,36-45,Medium
+3016,37,Female,Scarf,Accessories,21,Wyoming,XL,Lavender,Spring,2.8,No,No,27,Bank Transfer,Bi-Weekly,36-45,Low
+3019,43,Female,Boots,Footwear,41,Texas,M,Green,Summer,3.0,No,No,21,Debit Card,Bi-Weekly,36-45,Medium
+3024,50,Female,Backpack,Accessories,31,Indiana,M,Brown,Summer,2.9,No,No,4,PayPal,Quarterly,46-55,Medium
+3026,40,Female,Shoes,Footwear,60,Montana,XL,Green,Summer,3.4,No,No,7,PayPal,Monthly,36-45,Medium
+3027,55,Female,Shirt,Clothing,70,Tennessee,L,Magenta,Fall,2.5,No,No,6,Credit Card,Annually,46-55,Medium
+3028,52,Female,Hoodie,Clothing,26,West Virginia,XL,Peach,Winter,2.8,No,No,47,Credit Card,Quarterly,46-55,Low
+3031,43,Female,Sneakers,Footwear,24,Maryland,XL,Purple,Spring,2.6,No,No,23,Credit Card,Weekly,36-45,Low
+3035,51,Female,Boots,Footwear,37,Utah,L,Peach,Spring,3.5,No,No,25,Credit Card,Quarterly,46-55,Medium
+3037,50,Female,Hoodie,Clothing,58,Vermont,S,Violet,Spring,4.3,No,No,7,Venmo,Fortnightly,46-55,Medium
+3038,51,Female,Belt,Accessories,44,Iowa,L,Charcoal,Summer,4.8,No,No,2,Cash,Annually,46-55,Medium
+3042,48,Female,Handbag,Accessories,79,Rhode Island,M,Orange,Winter,4.0,No,No,27,PayPal,Monthly,46-55,High
+3043,53,Female,Coat,Outerwear,27,South Dakota,L,Turquoise,Winter,2.9,No,No,14,PayPal,Every 3 Months,46-55,Low
+3044,45,Female,Belt,Accessories,98,Illinois,S,Peach,Fall,2.6,No,No,17,Credit Card,Monthly,36-45,High
+3046,42,Female,Socks,Clothing,37,Florida,L,Black,Winter,4.6,No,No,4,PayPal,Bi-Weekly,36-45,Medium
+3050,40,Female,Handbag,Accessories,60,Utah,L,Red,Summer,3.0,No,No,41,Bank Transfer,Bi-Weekly,36-45,Medium
+3051,31,Female,Coat,Outerwear,76,Kentucky,S,Green,Spring,3.6,No,No,28,Venmo,Every 3 Months,26-35,High
+3052,44,Female,Sunglasses,Accessories,64,Wyoming,L,Gold,Summer,4.6,No,No,49,Debit Card,Every 3 Months,36-45,Medium
+3053,48,Female,Shoes,Footwear,38,Maine,XL,Olive,Spring,4.5,No,No,7,Bank Transfer,Fortnightly,46-55,Medium
+3054,32,Female,Shoes,Footwear,91,Maine,L,Brown,Winter,3.2,No,No,22,Bank Transfer,Monthly,26-35,High
+3055,42,Female,Boots,Footwear,70,New Hampshire,S,Magenta,Summer,4.9,No,No,34,Venmo,Monthly,36-45,Medium
+3059,41,Female,Handbag,Accessories,74,West Virginia,S,Orange,Winter,3.8,No,No,3,Bank Transfer,Fortnightly,36-45,High
+3060,46,Female,Sweater,Clothing,71,Kentucky,L,Maroon,Spring,3.2,No,No,42,Credit Card,Quarterly,46-55,High
+3061,47,Female,Coat,Outerwear,80,California,S,Charcoal,Summer,4.7,No,No,1,Venmo,Monthly,46-55,High
+3062,33,Female,T-shirt,Clothing,59,South Dakota,L,Olive,Fall,4.5,No,No,20,PayPal,Every 3 Months,26-35,Medium
+3063,51,Female,Backpack,Accessories,96,California,L,Green,Fall,3.3,No,No,39,PayPal,Monthly,46-55,High
+3066,49,Female,Jacket,Outerwear,59,North Dakota,M,Beige,Fall,2.8,No,No,7,Venmo,Bi-Weekly,46-55,Medium
+3069,32,Female,Boots,Footwear,40,California,M,Indigo,Winter,4.2,No,No,4,Debit Card,Weekly,26-35,Medium
+3071,52,Female,Shoes,Footwear,26,Alabama,XL,Red,Fall,2.6,No,No,43,PayPal,Bi-Weekly,46-55,Low
+3076,54,Female,Shorts,Clothing,90,Utah,XL,Beige,Winter,3.6,No,No,21,PayPal,Every 3 Months,46-55,High
+3079,32,Female,Belt,Accessories,95,Alaska,M,Blue,Spring,2.5,No,No,24,Bank Transfer,Bi-Weekly,26-35,High
+3080,48,Female,Belt,Accessories,31,Wyoming,M,Maroon,Fall,4.0,No,No,4,Bank Transfer,Annually,46-55,Medium
+3085,46,Female,Scarf,Accessories,37,Idaho,S,Indigo,Spring,3.2,No,No,43,PayPal,Monthly,46-55,Medium
+3087,47,Female,Handbag,Accessories,73,Utah,M,Lavender,Summer,3.5,No,No,26,Venmo,Every 3 Months,46-55,High
+3089,34,Female,Dress,Clothing,64,Arkansas,M,Teal,Spring,3.3,No,No,35,Bank Transfer,Quarterly,26-35,Medium
+3090,50,Female,Sandals,Footwear,21,North Carolina,L,Blue,Fall,4.6,No,No,23,Cash,Bi-Weekly,46-55,Low
+3093,52,Female,Sunglasses,Accessories,54,Utah,L,Silver,Fall,3.5,No,No,14,Bank Transfer,Bi-Weekly,46-55,Medium
+3098,48,Female,Shoes,Footwear,33,Delaware,M,Silver,Fall,3.7,No,No,39,Bank Transfer,Quarterly,46-55,Medium
+3100,42,Female,Shirt,Clothing,98,Michigan,S,Maroon,Fall,2.9,No,No,21,Bank Transfer,Bi-Weekly,36-45,High
+3101,50,Female,Hat,Accessories,85,Vermont,L,Purple,Winter,3.9,No,No,3,Bank Transfer,Weekly,46-55,High
+3102,32,Female,Jewelry,Accessories,82,Idaho,S,Brown,Summer,2.7,No,No,9,PayPal,Fortnightly,26-35,High
+3103,51,Female,Jacket,Outerwear,85,South Dakota,M,Green,Summer,4.3,No,No,29,Cash,Bi-Weekly,46-55,High
+3105,43,Female,Pants,Clothing,56,Georgia,S,Turquoise,Summer,5.0,No,No,41,Debit Card,Fortnightly,36-45,Medium
+3106,48,Female,Skirt,Clothing,33,Oregon,M,Olive,Fall,2.7,No,No,17,Debit Card,Monthly,46-55,Medium
+3109,50,Female,Socks,Clothing,69,Oregon,M,Purple,Fall,3.2,No,No,7,PayPal,Monthly,46-55,Medium
+3114,46,Female,Shirt,Clothing,93,Nebraska,L,Green,Summer,2.6,No,No,2,Debit Card,Weekly,46-55,High
+3117,50,Female,Coat,Outerwear,66,Montana,L,Gray,Spring,3.7,No,No,1,Venmo,Weekly,46-55,Medium
+3118,43,Female,Hoodie,Clothing,50,Florida,M,Olive,Fall,3.0,No,No,4,PayPal,Bi-Weekly,36-45,Medium
+3121,46,Female,Shirt,Clothing,76,Louisiana,M,Magenta,Fall,4.0,No,No,32,Debit Card,Fortnightly,46-55,High
+3126,33,Female,Coat,Outerwear,26,Oregon,L,Lavender,Spring,4.0,No,No,3,Cash,Quarterly,26-35,Low
+3128,55,Female,Gloves,Accessories,94,Louisiana,M,Beige,Winter,3.4,No,No,43,Credit Card,Every 3 Months,46-55,High
+3131,52,Female,Pants,Clothing,20,Vermont,M,Yellow,Summer,4.5,No,No,34,Venmo,Every 3 Months,46-55,Low
+3132,34,Female,Jacket,Outerwear,59,North Dakota,M,Peach,Fall,2.9,No,No,11,Bank Transfer,Every 3 Months,26-35,Medium
+3133,33,Female,Sweater,Clothing,97,Michigan,M,Yellow,Summer,4.2,No,No,26,Cash,Quarterly,26-35,High
+3135,35,Female,Boots,Footwear,66,Kentucky,L,Gray,Spring,4.4,No,No,47,Bank Transfer,Weekly,26-35,Medium
+3138,34,Female,Coat,Outerwear,44,Louisiana,M,Turquoise,Spring,2.7,No,No,14,Bank Transfer,Monthly,26-35,Medium
+3139,47,Female,Blouse,Clothing,95,Kentucky,L,Gray,Fall,4.6,No,No,40,Cash,Every 3 Months,46-55,High
+3140,35,Female,Sunglasses,Accessories,85,Georgia,M,Olive,Winter,4.4,No,No,4,Venmo,Weekly,26-35,High
+3141,34,Female,Gloves,Accessories,44,Alaska,XL,Peach,Summer,4.6,No,No,37,Bank Transfer,Weekly,26-35,Medium
+3142,36,Female,Sunglasses,Accessories,30,Mississippi,S,Peach,Winter,4.9,No,No,47,Credit Card,Bi-Weekly,36-45,Low
+3148,45,Female,Sweater,Clothing,99,North Dakota,M,Pink,Winter,4.3,No,No,21,Credit Card,Weekly,36-45,High
+3149,37,Female,Shorts,Clothing,35,West Virginia,L,Purple,Fall,4.3,No,No,15,Venmo,Weekly,36-45,Medium
+3151,55,Female,Blouse,Clothing,25,Georgia,M,Peach,Spring,2.6,No,No,7,Bank Transfer,Bi-Weekly,46-55,Low
+3152,52,Female,T-shirt,Clothing,64,New Mexico,L,Orange,Fall,3.1,No,No,47,Bank Transfer,Quarterly,46-55,Medium
+3153,49,Female,Belt,Accessories,90,North Carolina,M,Red,Fall,3.1,No,No,17,PayPal,Monthly,46-55,High
+3164,49,Female,Pants,Clothing,66,Nebraska,XL,Turquoise,Summer,2.8,No,No,36,Cash,Monthly,46-55,Medium
+3165,40,Female,Dress,Clothing,32,Arizona,L,Silver,Winter,2.6,No,No,16,Credit Card,Annually,36-45,Medium
+3166,49,Female,Jacket,Outerwear,92,Hawaii,M,Lavender,Spring,3.0,No,No,38,Bank Transfer,Every 3 Months,46-55,High
+3169,31,Female,Jeans,Clothing,24,Montana,M,Orange,Spring,2.9,No,No,14,PayPal,Fortnightly,26-35,Low
+3170,35,Female,T-shirt,Clothing,59,Georgia,M,White,Fall,3.8,No,No,3,Venmo,Weekly,26-35,Medium
+3175,45,Female,Pants,Clothing,52,Oklahoma,L,Orange,Winter,3.8,No,No,35,PayPal,Monthly,36-45,Medium
+3176,35,Female,Socks,Clothing,42,Connecticut,M,Maroon,Fall,3.4,No,No,26,Debit Card,Every 3 Months,26-35,Medium
+3177,36,Female,Sandals,Footwear,37,Arkansas,XL,Turquoise,Spring,4.6,No,No,39,Credit Card,Monthly,36-45,Medium
+3178,55,Female,Belt,Accessories,52,Missouri,L,Beige,Fall,3.2,No,No,31,Credit Card,Monthly,46-55,Medium
+3182,31,Female,Jacket,Outerwear,51,Montana,M,Charcoal,Summer,4.4,No,No,27,PayPal,Every 3 Months,26-35,Medium
+3183,50,Female,Sunglasses,Accessories,97,Georgia,L,Green,Fall,3.6,No,No,4,Credit Card,Annually,46-55,High
+3184,50,Female,Sneakers,Footwear,56,Mississippi,M,Green,Winter,3.5,No,No,14,Cash,Every 3 Months,46-55,Medium
+3186,52,Female,Skirt,Clothing,71,Ohio,L,Gold,Fall,4.7,No,No,6,PayPal,Annually,46-55,High
+3187,38,Female,Jewelry,Accessories,93,Virginia,S,Cyan,Winter,4.8,No,No,43,Venmo,Annually,36-45,High
+3189,42,Female,Blouse,Clothing,59,Vermont,M,Lavender,Winter,3.5,No,No,39,Bank Transfer,Monthly,36-45,Medium
+3191,41,Female,Jeans,Clothing,78,California,S,Purple,Fall,3.4,No,No,5,Credit Card,Fortnightly,36-45,High
+3195,43,Female,Sneakers,Footwear,52,Maryland,L,Gold,Summer,4.6,No,No,10,Credit Card,Bi-Weekly,36-45,Medium
+3202,46,Female,Pants,Clothing,38,Vermont,S,Indigo,Fall,2.8,No,No,34,Cash,Monthly,46-55,Medium
+3206,40,Female,Hoodie,Clothing,24,Colorado,XL,Magenta,Fall,4.4,No,No,50,Bank Transfer,Every 3 Months,36-45,Low
+3207,36,Female,Boots,Footwear,52,California,M,Brown,Winter,3.0,No,No,49,PayPal,Monthly,36-45,Medium
+3212,53,Female,Pants,Clothing,65,Rhode Island,L,Turquoise,Winter,4.9,No,No,12,Cash,Monthly,46-55,Medium
+3215,53,Female,Skirt,Clothing,78,Washington,M,Yellow,Spring,3.1,No,No,6,Debit Card,Annually,46-55,High
+3216,34,Female,Coat,Outerwear,90,Rhode Island,M,Magenta,Summer,2.7,No,No,10,PayPal,Every 3 Months,26-35,High
+3217,39,Female,Hoodie,Clothing,85,Illinois,S,Olive,Winter,3.4,No,No,18,Cash,Weekly,36-45,High
+3218,44,Female,Sunglasses,Accessories,58,Oregon,M,Silver,Fall,3.4,No,No,46,Venmo,Weekly,36-45,Medium
+3219,37,Female,Skirt,Clothing,34,Florida,M,Teal,Fall,3.9,No,No,49,PayPal,Monthly,36-45,Medium
+3221,38,Female,Handbag,Accessories,29,North Dakota,M,Blue,Fall,4.1,No,No,16,Cash,Monthly,36-45,Low
+3223,45,Female,Sunglasses,Accessories,84,Texas,S,Maroon,Fall,4.6,No,No,22,PayPal,Quarterly,36-45,High
+3225,37,Female,Hoodie,Clothing,80,Delaware,L,Indigo,Winter,2.7,No,No,18,PayPal,Monthly,36-45,High
+3226,53,Female,Blouse,Clothing,98,New Hampshire,M,Pink,Fall,3.0,No,No,31,Credit Card,Weekly,46-55,High
+3229,37,Female,Jewelry,Accessories,95,Connecticut,M,Yellow,Spring,4.6,No,No,27,PayPal,Annually,36-45,High
+3230,54,Female,Pants,Clothing,67,Connecticut,M,Teal,Fall,2.7,No,No,24,Cash,Monthly,46-55,Medium
+3231,49,Female,Sneakers,Footwear,49,Kansas,M,Olive,Summer,2.5,No,No,38,Debit Card,Annually,46-55,Medium
+3233,45,Female,T-shirt,Clothing,34,Massachusetts,M,White,Spring,4.0,No,No,19,Bank Transfer,Monthly,36-45,Medium
+3234,45,Female,Belt,Accessories,74,Indiana,M,Lavender,Fall,3.8,No,No,11,Debit Card,Bi-Weekly,36-45,High
+3235,49,Female,Jewelry,Accessories,96,Washington,M,Black,Winter,2.5,No,No,16,Debit Card,Quarterly,46-55,High
+3240,33,Female,Sunglasses,Accessories,32,Colorado,M,Charcoal,Fall,2.7,No,No,30,Cash,Monthly,26-35,Medium
+3242,50,Female,Handbag,Accessories,58,Connecticut,M,Lavender,Summer,4.4,No,No,30,PayPal,Quarterly,46-55,Medium
+3243,45,Female,Socks,Clothing,74,Oregon,S,Beige,Fall,2.8,No,No,17,Venmo,Weekly,36-45,High
+3244,45,Female,Hoodie,Clothing,99,Idaho,L,Black,Summer,5.0,No,No,11,Bank Transfer,Every 3 Months,36-45,High
+3248,53,Female,Gloves,Accessories,91,Arkansas,M,Teal,Summer,3.7,No,No,12,PayPal,Fortnightly,46-55,High
+3254,36,Female,Backpack,Accessories,60,Nebraska,M,Brown,Fall,3.2,No,No,8,Venmo,Fortnightly,36-45,Medium
+3258,44,Female,Shirt,Clothing,98,Minnesota,M,Brown,Fall,3.3,No,No,39,Venmo,Every 3 Months,36-45,High
+3259,31,Female,Shoes,Footwear,51,New Jersey,M,Magenta,Spring,4.3,No,No,11,Credit Card,Bi-Weekly,26-35,Medium
+3261,39,Female,Scarf,Accessories,36,Wisconsin,M,Violet,Summer,4.5,No,No,7,Credit Card,Annually,36-45,Medium
+3262,48,Female,Belt,Accessories,52,Rhode Island,L,Cyan,Winter,3.4,No,No,50,Debit Card,Weekly,46-55,Medium
+3263,42,Female,T-shirt,Clothing,35,Indiana,M,Violet,Spring,2.7,No,No,21,Cash,Every 3 Months,36-45,Medium
+3266,40,Female,Sunglasses,Accessories,100,Alabama,M,White,Winter,3.2,No,No,28,Credit Card,Fortnightly,36-45,High
+3267,49,Female,Coat,Outerwear,74,Alabama,S,Gray,Winter,4.2,No,No,33,Bank Transfer,Weekly,46-55,High
+3268,37,Female,Hoodie,Clothing,45,Idaho,L,Pink,Winter,3.0,No,No,42,Credit Card,Quarterly,36-45,Medium
+3272,35,Female,Socks,Clothing,55,Nevada,XL,Magenta,Spring,4.4,No,No,30,Credit Card,Weekly,26-35,Medium
+3275,46,Female,Sweater,Clothing,20,Oklahoma,M,Cyan,Spring,3.9,No,No,14,Cash,Fortnightly,46-55,Low
+3276,43,Female,Pants,Clothing,88,Alabama,XL,Green,Summer,2.6,No,No,2,Debit Card,Weekly,36-45,High
+3277,39,Female,Scarf,Accessories,99,South Dakota,M,White,Summer,4.0,No,No,41,PayPal,Every 3 Months,36-45,High
+3281,45,Female,Handbag,Accessories,57,New York,L,Red,Winter,2.7,No,No,5,PayPal,Monthly,36-45,Medium
+3284,47,Female,Jacket,Outerwear,24,North Carolina,L,Purple,Spring,2.9,No,No,10,Debit Card,Every 3 Months,46-55,Low
+3287,45,Female,Jacket,Outerwear,67,Illinois,L,Pink,Winter,5.0,No,No,4,Venmo,Fortnightly,36-45,Medium
+3290,31,Female,Backpack,Accessories,50,Montana,M,Maroon,Summer,4.0,No,No,16,Venmo,Every 3 Months,26-35,Medium
+3291,52,Female,Coat,Outerwear,82,North Dakota,L,Black,Spring,3.1,No,No,2,PayPal,Monthly,46-55,High
+3300,45,Female,Shorts,Clothing,32,South Dakota,L,Teal,Spring,4.0,No,No,18,Venmo,Monthly,36-45,Medium
+3302,36,Female,Pants,Clothing,58,Oklahoma,XL,Charcoal,Summer,2.5,No,No,31,Credit Card,Fortnightly,36-45,Medium
+3303,36,Female,Blouse,Clothing,82,Alabama,XL,Beige,Winter,4.2,No,No,31,Venmo,Bi-Weekly,36-45,High
+3306,34,Female,Hoodie,Clothing,41,Nebraska,L,Cyan,Summer,4.9,No,No,31,PayPal,Bi-Weekly,26-35,Medium
+3309,55,Female,Jeans,Clothing,70,Utah,M,Pink,Fall,2.6,No,No,29,Cash,Monthly,46-55,Medium
+3310,48,Female,Handbag,Accessories,47,Massachusetts,M,Blue,Summer,3.1,No,No,19,PayPal,Monthly,46-55,Medium
+3311,45,Female,Jacket,Outerwear,27,Iowa,M,Pink,Winter,3.6,No,No,12,PayPal,Fortnightly,36-45,Low
+3313,55,Female,Sneakers,Footwear,75,Louisiana,L,Black,Summer,3.9,No,No,45,Cash,Quarterly,46-55,High
+3314,55,Female,Hat,Accessories,30,Kansas,XL,Black,Fall,3.9,No,No,45,Credit Card,Monthly,46-55,Low
+3315,55,Female,Socks,Clothing,94,Kansas,M,Violet,Spring,3.3,No,No,8,Credit Card,Quarterly,46-55,High
+3316,48,Female,Scarf,Accessories,68,Kentucky,S,Gold,Summer,2.9,No,No,4,PayPal,Every 3 Months,46-55,Medium
+3317,42,Female,Socks,Clothing,45,New Mexico,M,Olive,Summer,3.1,No,No,5,Debit Card,Fortnightly,36-45,Medium
+3319,45,Female,Jacket,Outerwear,46,North Dakota,M,Olive,Summer,3.9,No,No,15,PayPal,Monthly,36-45,Medium
+3322,32,Female,Coat,Outerwear,100,Maine,S,Charcoal,Winter,4.3,No,No,3,Venmo,Annually,26-35,High
+3323,52,Female,Sweater,Clothing,92,Indiana,XL,Orange,Winter,4.6,No,No,43,PayPal,Weekly,46-55,High
+3324,54,Female,Handbag,Accessories,78,North Dakota,M,Yellow,Winter,3.8,No,No,4,Credit Card,Monthly,46-55,High
+3325,37,Female,T-shirt,Clothing,32,Missouri,S,Red,Fall,3.3,No,No,41,Venmo,Weekly,36-45,Medium
+3327,47,Female,Gloves,Accessories,95,North Dakota,M,Magenta,Summer,4.3,No,No,10,Debit Card,Annually,46-55,High
+3328,47,Female,Shorts,Clothing,64,Connecticut,M,Black,Spring,4.1,No,No,2,Debit Card,Quarterly,46-55,Medium
+3329,42,Female,Sandals,Footwear,35,Wisconsin,M,Violet,Spring,3.2,No,No,11,Cash,Bi-Weekly,36-45,Medium
+3330,34,Female,Backpack,Accessories,54,New Jersey,M,Gray,Winter,3.8,No,No,1,Debit Card,Bi-Weekly,26-35,Medium
+3331,38,Female,Sneakers,Footwear,96,Missouri,M,Black,Spring,3.2,No,No,41,Bank Transfer,Quarterly,36-45,High
+3332,55,Female,Sunglasses,Accessories,58,California,M,Pink,Summer,3.5,No,No,39,PayPal,Quarterly,46-55,Medium
+3334,55,Female,Jeans,Clothing,35,Minnesota,M,Violet,Spring,4.2,No,No,3,PayPal,Monthly,46-55,Medium
+3336,44,Female,Hat,Accessories,94,Texas,XL,Cyan,Winter,3.5,No,No,48,Bank Transfer,Quarterly,36-45,High
+3337,39,Female,Blouse,Clothing,45,Montana,M,Brown,Fall,4.0,No,No,24,Debit Card,Annually,36-45,Medium
+3341,42,Female,T-shirt,Clothing,36,Virginia,XL,Maroon,Fall,4.4,No,No,47,Credit Card,Fortnightly,36-45,Medium
+3342,55,Female,Jacket,Outerwear,50,Connecticut,XL,Olive,Summer,4.5,No,No,35,Credit Card,Monthly,46-55,Medium
+3350,35,Female,Jewelry,Accessories,79,Georgia,M,Red,Fall,2.8,No,No,29,PayPal,Quarterly,26-35,High
+3351,45,Female,Handbag,Accessories,33,Mississippi,S,Olive,Fall,4.9,No,No,15,Cash,Bi-Weekly,36-45,Medium
+3352,43,Female,Shirt,Clothing,49,New Hampshire,L,Cyan,Spring,4.2,No,No,18,Bank Transfer,Fortnightly,36-45,Medium
+3353,55,Female,Belt,Accessories,96,Washington,M,Teal,Summer,2.9,No,No,7,Bank Transfer,Bi-Weekly,46-55,High
+3354,31,Female,Dress,Clothing,66,Ohio,L,Teal,Fall,4.6,No,No,19,Credit Card,Every 3 Months,26-35,Medium
+3355,42,Female,Skirt,Clothing,45,Maryland,M,Orange,Fall,2.8,No,No,15,PayPal,Weekly,36-45,Medium
+3356,40,Female,Blouse,Clothing,28,Delaware,M,Peach,Spring,2.6,No,No,3,Bank Transfer,Bi-Weekly,36-45,Low
+3357,39,Female,Jeans,Clothing,48,Tennessee,M,Silver,Summer,3.5,No,No,13,PayPal,Bi-Weekly,36-45,Medium
+3358,41,Female,Hoodie,Clothing,67,Arkansas,M,Pink,Winter,3.5,No,No,37,Credit Card,Monthly,36-45,Medium
+3360,43,Female,Sunglasses,Accessories,74,New Hampshire,L,Red,Fall,3.9,No,No,29,Debit Card,Monthly,36-45,High
+3362,47,Female,Shoes,Footwear,26,Florida,M,Silver,Spring,4.1,No,No,47,Credit Card,Bi-Weekly,46-55,Low
+3363,50,Female,Handbag,Accessories,61,Tennessee,M,Gray,Summer,3.0,No,No,48,Venmo,Fortnightly,46-55,Medium
+3365,50,Female,Scarf,Accessories,33,Oregon,M,Peach,Fall,3.2,No,No,7,Credit Card,Monthly,46-55,Medium
+3366,43,Female,Skirt,Clothing,58,Tennessee,L,Teal,Fall,3.9,No,No,45,Credit Card,Every 3 Months,36-45,Medium
+3367,38,Female,Gloves,Accessories,65,North Carolina,M,Red,Spring,3.6,No,No,47,Debit Card,Quarterly,36-45,Medium
+3368,44,Female,T-shirt,Clothing,48,Tennessee,M,Blue,Summer,3.1,No,No,6,Venmo,Fortnightly,36-45,Medium
+3370,47,Female,Sweater,Clothing,51,Maine,M,Indigo,Winter,3.8,No,No,42,Cash,Monthly,46-55,Medium
+3372,49,Female,Hoodie,Clothing,99,Colorado,S,Turquoise,Winter,4.0,No,No,28,PayPal,Annually,46-55,High
+3376,51,Female,Boots,Footwear,98,Connecticut,XL,Yellow,Fall,4.9,No,No,8,Credit Card,Annually,46-55,High
+3378,37,Female,Shirt,Clothing,32,Kentucky,M,Yellow,Winter,4.6,No,No,18,PayPal,Fortnightly,36-45,Medium
+3379,49,Female,Shorts,Clothing,75,Minnesota,L,Gold,Fall,4.5,No,No,6,Cash,Quarterly,46-55,High
+3381,41,Female,Dress,Clothing,52,North Dakota,L,Blue,Summer,3.8,No,No,6,PayPal,Every 3 Months,36-45,Medium
+3383,34,Female,Sweater,Clothing,35,Nebraska,M,Maroon,Spring,2.8,No,No,2,Bank Transfer,Weekly,26-35,Medium
+3385,39,Female,Hoodie,Clothing,24,Minnesota,L,Maroon,Summer,3.8,No,No,9,Venmo,Quarterly,36-45,Low
+3387,34,Female,T-shirt,Clothing,62,Michigan,M,Lavender,Fall,2.6,No,No,36,Cash,Quarterly,26-35,Medium
+3388,53,Female,Pants,Clothing,78,New Jersey,S,Pink,Spring,3.4,No,No,2,Credit Card,Bi-Weekly,46-55,High
+3389,35,Female,Sweater,Clothing,61,South Dakota,M,Cyan,Spring,4.5,No,No,21,Credit Card,Weekly,26-35,Medium
+3390,38,Female,Pants,Clothing,57,North Carolina,L,Maroon,Fall,3.8,No,No,39,Venmo,Annually,36-45,Medium
+3391,32,Female,Socks,Clothing,70,Oregon,S,Red,Summer,3.0,No,No,38,PayPal,Annually,26-35,Medium
+3392,47,Female,Hoodie,Clothing,57,Montana,M,Silver,Fall,3.7,No,No,6,Debit Card,Every 3 Months,46-55,Medium
+3393,53,Female,Scarf,Accessories,74,New Jersey,XL,Blue,Winter,4.4,No,No,6,Venmo,Bi-Weekly,46-55,High
+3395,31,Female,Sandals,Footwear,98,Vermont,S,Yellow,Spring,4.2,No,No,9,PayPal,Annually,26-35,High
+3396,44,Female,Dress,Clothing,43,Colorado,M,Silver,Winter,3.1,No,No,15,Debit Card,Every 3 Months,36-45,Medium
+3399,54,Female,Jeans,Clothing,60,Montana,L,Pink,Winter,3.8,No,No,44,Cash,Fortnightly,46-55,Medium
+3400,40,Female,Pants,Clothing,55,Montana,XL,Yellow,Winter,3.3,No,No,36,Debit Card,Annually,36-45,Medium
+3401,39,Female,Sunglasses,Accessories,51,Nevada,M,Lavender,Fall,4.8,No,No,18,Venmo,Fortnightly,36-45,Medium
+3402,44,Female,Backpack,Accessories,71,Nevada,L,Peach,Winter,3.4,No,No,39,Credit Card,Weekly,36-45,High
+3408,46,Female,Dress,Clothing,46,Alabama,S,Purple,Spring,2.6,No,No,20,Cash,Quarterly,46-55,Medium
+3409,48,Female,Socks,Clothing,72,Montana,L,Purple,Summer,4.4,No,No,11,Bank Transfer,Annually,46-55,High
+3411,50,Female,Sandals,Footwear,76,Ohio,L,Teal,Summer,4.3,No,No,38,Bank Transfer,Bi-Weekly,46-55,High
+3414,34,Female,Gloves,Accessories,90,Delaware,XL,Black,Winter,2.5,No,No,16,PayPal,Bi-Weekly,26-35,High
+3416,38,Female,Blouse,Clothing,68,New York,M,Gold,Fall,3.0,No,No,15,Bank Transfer,Annually,36-45,Medium
+3418,54,Female,Coat,Outerwear,35,Massachusetts,M,Blue,Summer,2.9,No,No,22,Debit Card,Fortnightly,46-55,Medium
+3419,53,Female,Jacket,Outerwear,30,South Carolina,M,Beige,Summer,2.8,No,No,35,Debit Card,Annually,46-55,Low
+3424,33,Female,Boots,Footwear,71,Massachusetts,M,Brown,Spring,3.8,No,No,21,PayPal,Bi-Weekly,26-35,High
+3425,33,Female,Scarf,Accessories,64,Florida,L,Green,Summer,3.6,No,No,23,Credit Card,Monthly,26-35,Medium
+3426,38,Female,Hat,Accessories,54,Michigan,M,Blue,Summer,4.3,No,No,3,Debit Card,Bi-Weekly,36-45,Medium
+3427,47,Female,Socks,Clothing,35,Oregon,XL,Magenta,Fall,4.8,No,No,31,Credit Card,Annually,46-55,Medium
+3428,39,Female,T-shirt,Clothing,38,Michigan,XL,Turquoise,Winter,2.5,No,No,44,Cash,Annually,36-45,Medium
+3429,32,Female,Jewelry,Accessories,69,Washington,M,Gray,Fall,2.5,No,No,20,Venmo,Monthly,26-35,Medium
+3432,46,Female,Belt,Accessories,49,New Mexico,S,Green,Summer,4.2,No,No,20,Venmo,Annually,46-55,Medium
+3433,36,Female,Boots,Footwear,44,Connecticut,M,Gray,Summer,4.8,No,No,46,PayPal,Every 3 Months,36-45,Medium
+3435,31,Female,Pants,Clothing,72,Ohio,S,Orange,Summer,3.3,No,No,6,Venmo,Fortnightly,26-35,High
+3440,43,Female,Gloves,Accessories,93,Idaho,M,Gray,Summer,4.5,No,No,25,Venmo,Quarterly,36-45,High
+3441,45,Female,Handbag,Accessories,63,Maryland,L,Magenta,Fall,4.3,No,No,2,PayPal,Weekly,36-45,Medium
+3444,47,Female,Dress,Clothing,24,Tennessee,L,Silver,Summer,5.0,No,No,28,Cash,Bi-Weekly,46-55,Low
+3445,53,Female,Pants,Clothing,63,Rhode Island,S,Green,Summer,3.8,No,No,12,Bank Transfer,Bi-Weekly,46-55,Medium
+3446,42,Female,Hat,Accessories,58,Florida,M,Magenta,Fall,4.9,No,No,3,Debit Card,Annually,36-45,Medium
+3447,51,Female,Boots,Footwear,55,Louisiana,S,Purple,Spring,5.0,No,No,20,Cash,Weekly,46-55,Medium
+3450,48,Female,Blouse,Clothing,37,Kansas,M,Brown,Spring,4.5,No,No,35,Cash,Monthly,46-55,Medium
+3452,32,Female,Blouse,Clothing,73,Nevada,XL,Silver,Fall,3.0,No,No,13,Credit Card,Annually,26-35,High
+3454,31,Female,Shirt,Clothing,60,Alabama,L,Pink,Winter,4.3,No,No,48,Venmo,Bi-Weekly,26-35,Medium
+3455,55,Female,Handbag,Accessories,71,Louisiana,S,Lavender,Fall,4.6,No,No,15,PayPal,Bi-Weekly,46-55,High
+3456,49,Female,T-shirt,Clothing,89,Ohio,M,Orange,Fall,4.7,No,No,13,Venmo,Annually,46-55,High
+3457,42,Female,Hoodie,Clothing,53,Texas,M,Red,Fall,4.6,No,No,21,Venmo,Monthly,36-45,Medium
+3461,41,Female,Scarf,Accessories,78,Indiana,M,Gold,Spring,3.1,No,No,5,Bank Transfer,Bi-Weekly,36-45,High
+3462,51,Female,Shoes,Footwear,23,Wyoming,S,Maroon,Spring,4.4,No,No,47,Cash,Quarterly,46-55,Low
+3463,44,Female,Jeans,Clothing,73,Michigan,L,Olive,Spring,4.5,No,No,34,Credit Card,Every 3 Months,36-45,High
+3465,36,Female,Coat,Outerwear,59,Utah,S,Peach,Winter,2.7,No,No,12,PayPal,Annually,36-45,Medium
+3467,49,Female,Socks,Clothing,42,Maryland,S,Purple,Summer,4.6,No,No,43,Bank Transfer,Annually,46-55,Medium
+3469,36,Female,Sunglasses,Accessories,89,Ohio,S,Indigo,Winter,3.5,No,No,36,Debit Card,Quarterly,36-45,High
+3470,36,Female,Socks,Clothing,85,North Dakota,L,Magenta,Fall,3.3,No,No,12,Cash,Annually,36-45,High
+3472,43,Female,Sandals,Footwear,66,North Carolina,S,Blue,Spring,3.1,No,No,31,Cash,Bi-Weekly,36-45,Medium
+3473,31,Female,Blouse,Clothing,42,Georgia,S,White,Summer,4.0,No,No,15,Debit Card,Weekly,26-35,Medium
+3475,41,Female,Pants,Clothing,82,Maine,M,Cyan,Winter,4.4,No,No,18,Venmo,Monthly,36-45,High
+3476,48,Female,Sneakers,Footwear,88,South Carolina,M,Orange,Spring,4.4,No,No,9,Cash,Quarterly,46-55,High
+3478,53,Female,Handbag,Accessories,85,Kentucky,S,Teal,Spring,3.8,No,No,38,Debit Card,Bi-Weekly,46-55,High
+3479,36,Female,Handbag,Accessories,57,Arizona,M,Magenta,Fall,4.6,No,No,42,PayPal,Quarterly,36-45,Medium
+3480,46,Female,Sweater,Clothing,56,New York,S,Orange,Summer,4.9,No,No,41,Cash,Monthly,46-55,Medium
+3482,52,Female,Socks,Clothing,67,Ohio,S,Maroon,Summer,3.4,No,No,41,Debit Card,Bi-Weekly,46-55,Medium
+3485,44,Female,Dress,Clothing,75,Illinois,L,Gray,Fall,4.2,No,No,13,Credit Card,Bi-Weekly,36-45,High
+3486,50,Female,Shirt,Clothing,21,Massachusetts,XL,Brown,Winter,3.4,No,No,23,Debit Card,Fortnightly,46-55,Low
+3487,51,Female,Shorts,Clothing,89,North Carolina,L,Charcoal,Winter,4.9,No,No,6,PayPal,Weekly,46-55,High
+3490,48,Female,Dress,Clothing,26,Idaho,L,Black,Summer,4.6,No,No,32,PayPal,Every 3 Months,46-55,Low
+3493,48,Female,Gloves,Accessories,65,South Dakota,M,Turquoise,Fall,4.6,No,No,48,Bank Transfer,Annually,46-55,Medium
+3494,48,Female,Pants,Clothing,82,New Mexico,XL,Black,Winter,4.7,No,No,35,Credit Card,Weekly,46-55,High
+3497,39,Female,Shoes,Footwear,38,Idaho,M,Pink,Summer,4.0,No,No,22,PayPal,Monthly,36-45,Medium
+3498,35,Female,Handbag,Accessories,48,Colorado,M,Red,Spring,4.3,No,No,16,Venmo,Every 3 Months,26-35,Medium
+3499,47,Female,Sandals,Footwear,35,Kentucky,M,Lavender,Summer,3.8,No,No,2,Bank Transfer,Bi-Weekly,46-55,Medium
+3501,38,Female,Shirt,Clothing,48,Oregon,S,Silver,Fall,4.6,No,No,38,Debit Card,Fortnightly,36-45,Medium
+3502,53,Female,Shoes,Footwear,87,Nebraska,M,Silver,Fall,4.8,No,No,43,Bank Transfer,Weekly,46-55,High
+3503,31,Female,Backpack,Accessories,62,Massachusetts,M,Green,Fall,4.7,No,No,26,Bank Transfer,Quarterly,26-35,Medium
+3504,31,Female,Shirt,Clothing,96,Nebraska,M,Pink,Spring,3.9,No,No,39,Cash,Weekly,26-35,High
+3506,48,Female,Jewelry,Accessories,42,Indiana,L,Red,Winter,3.7,No,No,40,Bank Transfer,Every 3 Months,46-55,Medium
+3508,46,Female,Handbag,Accessories,65,Colorado,S,Purple,Spring,4.2,No,No,33,Credit Card,Every 3 Months,46-55,Medium
+3509,52,Female,Pants,Clothing,54,Pennsylvania,M,Gray,Fall,4.7,No,No,49,Bank Transfer,Weekly,46-55,Medium
+3510,50,Female,T-shirt,Clothing,22,Ohio,L,Brown,Winter,4.3,No,No,43,Venmo,Bi-Weekly,46-55,Low
+3511,49,Female,Sneakers,Footwear,96,Pennsylvania,S,Orange,Fall,4.9,No,No,14,Venmo,Monthly,46-55,High
+3513,36,Female,Shirt,Clothing,46,Kentucky,M,White,Fall,3.4,No,No,31,Debit Card,Quarterly,36-45,Medium
+3517,34,Female,Boots,Footwear,56,South Carolina,S,White,Summer,4.0,No,No,38,PayPal,Bi-Weekly,26-35,Medium
+3519,50,Female,Shirt,Clothing,97,Colorado,M,Black,Spring,4.2,No,No,30,PayPal,Quarterly,46-55,High
+3520,31,Female,Shorts,Clothing,66,Wisconsin,M,White,Winter,3.7,No,No,14,Bank Transfer,Fortnightly,26-35,Medium
+3521,41,Female,Hat,Accessories,70,Georgia,S,Brown,Spring,3.1,No,No,33,Bank Transfer,Monthly,36-45,Medium
+3522,52,Female,Shoes,Footwear,50,Maryland,M,Pink,Winter,3.7,No,No,35,Venmo,Weekly,46-55,Medium
+3524,49,Female,Backpack,Accessories,59,Nevada,M,Cyan,Summer,2.8,No,No,30,Cash,Fortnightly,46-55,Medium
+3526,45,Female,Sunglasses,Accessories,38,Wyoming,L,Olive,Winter,3.5,No,No,47,Bank Transfer,Annually,36-45,Medium
+3529,38,Female,Scarf,Accessories,67,Maine,L,Gray,Summer,4.5,No,No,33,PayPal,Annually,36-45,Medium
+3530,55,Female,T-shirt,Clothing,20,Montana,S,Maroon,Winter,3.9,No,No,43,Bank Transfer,Weekly,46-55,Low
+3532,54,Female,Shoes,Footwear,52,North Dakota,XL,Violet,Winter,4.6,No,No,23,Cash,Quarterly,46-55,Medium
+3534,50,Female,Sneakers,Footwear,98,Texas,L,Yellow,Fall,4.7,No,No,30,Venmo,Fortnightly,46-55,High
+3537,55,Female,Handbag,Accessories,21,Minnesota,L,Peach,Spring,4.5,No,No,10,Venmo,Monthly,46-55,Low
+3546,48,Female,Sandals,Footwear,28,Connecticut,M,Yellow,Spring,3.7,No,No,22,Debit Card,Annually,46-55,Low
+3548,52,Female,Scarf,Accessories,31,Pennsylvania,L,Magenta,Summer,3.8,No,No,23,Credit Card,Annually,46-55,Medium
+3550,44,Female,T-shirt,Clothing,34,Oregon,M,Cyan,Summer,3.4,No,No,11,Bank Transfer,Fortnightly,36-45,Medium
+3555,39,Female,Dress,Clothing,55,Louisiana,M,Indigo,Spring,5.0,No,No,5,Credit Card,Fortnightly,36-45,Medium
+3558,52,Female,Jacket,Outerwear,26,Nevada,M,Peach,Summer,4.9,No,No,1,PayPal,Every 3 Months,46-55,Low
+3563,47,Female,Sneakers,Footwear,36,Maryland,M,Cyan,Winter,3.4,No,No,7,Bank Transfer,Weekly,46-55,Medium
+3564,43,Female,Blouse,Clothing,90,Maine,M,Green,Summer,4.9,No,No,8,Credit Card,Every 3 Months,36-45,High
+3566,49,Female,Handbag,Accessories,52,Pennsylvania,S,Gray,Spring,4.2,No,No,35,PayPal,Monthly,46-55,Medium
+3568,32,Female,Scarf,Accessories,56,New Mexico,S,Silver,Summer,4.0,No,No,26,Credit Card,Monthly,26-35,Medium
+3570,35,Female,Sandals,Footwear,94,Alaska,M,Olive,Fall,3.3,No,No,9,Bank Transfer,Fortnightly,26-35,High
+3574,43,Female,Jeans,Clothing,67,Connecticut,L,Maroon,Fall,4.9,No,No,27,PayPal,Monthly,36-45,Medium
+3579,46,Female,Shoes,Footwear,22,Georgia,L,Olive,Winter,2.6,No,No,22,Bank Transfer,Quarterly,46-55,Low
+3580,34,Female,Scarf,Accessories,66,Arizona,L,Olive,Fall,4.8,No,No,19,Credit Card,Every 3 Months,26-35,Medium
+3581,51,Female,Blouse,Clothing,83,New Hampshire,M,Magenta,Summer,3.2,No,No,3,Cash,Bi-Weekly,46-55,High
+3584,52,Female,Blouse,Clothing,77,Arizona,L,Brown,Summer,2.7,No,No,44,Credit Card,Every 3 Months,46-55,High
+3585,39,Female,Sneakers,Footwear,52,Florida,L,Indigo,Fall,4.8,No,No,48,Debit Card,Monthly,36-45,Medium
+3586,39,Female,Gloves,Accessories,41,New York,XL,Gray,Winter,4.1,No,No,4,Venmo,Bi-Weekly,36-45,Medium
+3587,33,Female,Hoodie,Clothing,28,Idaho,M,Yellow,Winter,4.6,No,No,12,PayPal,Bi-Weekly,26-35,Low
+3588,33,Female,Sweater,Clothing,90,Virginia,S,Violet,Summer,4.4,No,No,33,Debit Card,Annually,26-35,High
+3590,31,Female,Belt,Accessories,73,New Hampshire,M,Blue,Spring,4.8,No,No,38,Cash,Every 3 Months,26-35,High
+3592,48,Female,Jacket,Outerwear,89,South Dakota,M,Gold,Winter,3.2,No,No,38,Bank Transfer,Quarterly,46-55,High
+3600,37,Female,Scarf,Accessories,34,Kansas,S,Peach,Spring,4.6,No,No,4,Cash,Weekly,36-45,Medium
+3602,34,Female,T-shirt,Clothing,47,North Carolina,M,Indigo,Summer,3.0,No,No,3,PayPal,Monthly,26-35,Medium
+3604,45,Female,Jeans,Clothing,51,Louisiana,M,Gold,Spring,2.7,No,No,5,Cash,Weekly,36-45,Medium
+3607,41,Female,Sandals,Footwear,90,Minnesota,XL,Purple,Fall,4.8,No,No,41,Venmo,Annually,36-45,High
+3608,50,Female,Hat,Accessories,93,New Mexico,L,Charcoal,Fall,3.3,No,No,20,Venmo,Bi-Weekly,46-55,High
+3613,47,Female,Sandals,Footwear,29,Michigan,M,Teal,Summer,3.6,No,No,26,Cash,Every 3 Months,46-55,Low
+3615,46,Female,Gloves,Accessories,25,Delaware,L,Maroon,Spring,4.7,No,No,19,Bank Transfer,Annually,46-55,Low
+3616,35,Female,Dress,Clothing,31,California,M,Gold,Winter,4.4,No,No,4,Credit Card,Monthly,26-35,Medium
+3617,42,Female,Hoodie,Clothing,23,Wisconsin,L,Purple,Winter,3.3,No,No,33,Debit Card,Fortnightly,36-45,Low
+3618,48,Female,Belt,Accessories,47,Kentucky,M,Lavender,Fall,4.3,No,No,29,Debit Card,Monthly,46-55,Medium
+3620,44,Female,Scarf,Accessories,75,North Carolina,S,Magenta,Winter,4.9,No,No,50,Venmo,Weekly,36-45,High
+3622,38,Female,Sneakers,Footwear,32,New Jersey,XL,Silver,Summer,4.0,No,No,5,Cash,Fortnightly,36-45,Medium
+3623,46,Female,Dress,Clothing,41,Wisconsin,M,Purple,Fall,4.3,No,No,12,Credit Card,Annually,46-55,Medium
+3624,39,Female,Jewelry,Accessories,89,Arkansas,M,Violet,Winter,2.7,No,No,4,PayPal,Weekly,36-45,High
+3626,44,Female,Scarf,Accessories,99,Illinois,L,Green,Winter,4.4,No,No,32,PayPal,Weekly,36-45,High
+3628,39,Female,Belt,Accessories,54,Delaware,M,Silver,Winter,3.3,No,No,48,Cash,Every 3 Months,36-45,Medium
+3629,53,Female,Blouse,Clothing,88,Georgia,L,Purple,Summer,3.8,No,No,35,Credit Card,Monthly,46-55,High
+3630,52,Female,T-shirt,Clothing,43,Kansas,L,Lavender,Summer,4.5,No,No,44,Debit Card,Fortnightly,46-55,Medium
+3632,48,Female,Hat,Accessories,50,New Jersey,M,Peach,Fall,2.9,No,No,26,Credit Card,Monthly,46-55,Medium
+3634,39,Female,Gloves,Accessories,51,Montana,M,Orange,Spring,2.8,No,No,1,Bank Transfer,Bi-Weekly,36-45,Medium
+3636,52,Female,Sandals,Footwear,32,Colorado,L,Cyan,Fall,3.3,No,No,17,Credit Card,Fortnightly,46-55,Medium
+3637,50,Female,Sandals,Footwear,38,California,L,Lavender,Summer,4.2,No,No,36,Cash,Weekly,46-55,Medium
+3638,32,Female,Boots,Footwear,66,Utah,L,Yellow,Winter,3.6,No,No,32,Credit Card,Fortnightly,26-35,Medium
+3639,40,Female,Backpack,Accessories,20,Kansas,M,Olive,Spring,4.6,No,No,50,PayPal,Bi-Weekly,36-45,Low
+3641,47,Female,Sunglasses,Accessories,31,Minnesota,L,Pink,Spring,4.0,No,No,17,PayPal,Monthly,46-55,Medium
+3642,51,Female,Jacket,Outerwear,45,New York,M,Cyan,Fall,2.7,No,No,39,Bank Transfer,Every 3 Months,46-55,Medium
+3643,47,Female,Dress,Clothing,71,Arizona,L,Maroon,Summer,4.4,No,No,5,PayPal,Annually,46-55,High
+3644,53,Female,Scarf,Accessories,96,Tennessee,XL,Magenta,Fall,3.2,No,No,47,Debit Card,Annually,46-55,High
+3645,35,Female,Blouse,Clothing,32,Arkansas,M,Violet,Winter,2.6,No,No,18,Venmo,Weekly,26-35,Medium
+3646,38,Female,Backpack,Accessories,90,Colorado,L,Silver,Summer,3.4,No,No,31,Credit Card,Every 3 Months,36-45,High
+3648,47,Female,Shorts,Clothing,45,Kansas,M,Gray,Winter,2.9,No,No,12,Bank Transfer,Weekly,46-55,Medium
+3649,31,Female,Skirt,Clothing,67,New York,M,White,Winter,5.0,No,No,45,Cash,Bi-Weekly,26-35,Medium
+3651,51,Female,Jeans,Clothing,60,Ohio,M,Silver,Summer,3.5,No,No,3,PayPal,Annually,46-55,Medium
+3657,35,Female,Jacket,Outerwear,67,North Dakota,XL,Cyan,Spring,3.7,No,No,18,Credit Card,Monthly,26-35,Medium
+3668,51,Female,Pants,Clothing,45,Washington,L,Cyan,Fall,2.6,No,No,20,Venmo,Monthly,46-55,Medium
+3671,31,Female,Shoes,Footwear,50,Vermont,S,White,Winter,3.8,No,No,4,PayPal,Every 3 Months,26-35,Medium
+3673,51,Female,Sandals,Footwear,81,New York,S,Pink,Fall,4.5,No,No,7,PayPal,Monthly,46-55,High
+3674,32,Female,Socks,Clothing,28,Rhode Island,M,Pink,Summer,4.2,No,No,31,Bank Transfer,Fortnightly,26-35,Low
+3675,35,Female,Handbag,Accessories,65,Washington,M,Blue,Winter,2.7,No,No,41,Venmo,Fortnightly,26-35,Medium
+3678,32,Female,Backpack,Accessories,30,Michigan,M,Gray,Fall,2.8,No,No,43,Cash,Annually,26-35,Low
+3680,53,Female,Coat,Outerwear,91,Idaho,M,Violet,Summer,2.5,No,No,5,Cash,Bi-Weekly,46-55,High
+3683,42,Female,Shirt,Clothing,60,Wyoming,M,Maroon,Fall,4.6,No,No,46,Venmo,Bi-Weekly,36-45,Medium
+3686,47,Female,Shorts,Clothing,42,Tennessee,L,Red,Summer,2.6,No,No,17,Cash,Bi-Weekly,46-55,Medium
+3688,34,Female,Shirt,Clothing,44,Arkansas,L,Lavender,Summer,2.9,No,No,28,Bank Transfer,Every 3 Months,26-35,Medium
+3689,52,Female,Sunglasses,Accessories,91,West Virginia,L,White,Spring,3.0,No,No,8,Cash,Monthly,46-55,High
+3690,47,Female,Jewelry,Accessories,30,South Carolina,L,Red,Fall,4.5,No,No,8,Bank Transfer,Quarterly,46-55,Low
+3695,45,Female,Sweater,Clothing,41,Rhode Island,M,Blue,Winter,2.6,No,No,11,PayPal,Bi-Weekly,36-45,Medium
+3696,38,Female,Skirt,Clothing,33,Florida,M,White,Fall,4.6,No,No,18,Bank Transfer,Fortnightly,36-45,Medium
+3698,55,Female,Hoodie,Clothing,66,Pennsylvania,L,Pink,Winter,3.0,No,No,39,Cash,Weekly,46-55,Medium
+3700,51,Female,Backpack,Accessories,55,Oklahoma,M,Olive,Fall,2.6,No,No,24,Bank Transfer,Weekly,46-55,Medium
+3702,46,Female,Sandals,Footwear,66,New Mexico,M,Charcoal,Spring,4.5,No,No,36,Cash,Annually,46-55,Medium
+3708,35,Female,Gloves,Accessories,79,Illinois,M,Gold,Fall,3.4,No,No,19,Venmo,Weekly,26-35,High
+3709,40,Female,Hoodie,Clothing,96,South Carolina,M,Red,Fall,4.9,No,No,41,PayPal,Monthly,36-45,High
+3710,31,Female,Socks,Clothing,43,Utah,M,Silver,Fall,3.6,No,No,27,PayPal,Quarterly,26-35,Medium
+3713,51,Female,Blouse,Clothing,72,Oregon,M,Turquoise,Spring,3.7,No,No,24,PayPal,Quarterly,46-55,High
+3714,49,Female,Shoes,Footwear,87,Arizona,M,Peach,Spring,2.6,No,No,31,Debit Card,Every 3 Months,46-55,High
+3718,45,Female,T-shirt,Clothing,85,Maryland,XL,White,Summer,4.2,No,No,47,Bank Transfer,Every 3 Months,36-45,High
+3719,36,Female,Pants,Clothing,50,Tennessee,L,Turquoise,Fall,2.9,No,No,44,Bank Transfer,Bi-Weekly,36-45,Medium
+3727,47,Female,Belt,Accessories,85,Idaho,XL,Orange,Fall,4.3,No,No,36,Debit Card,Every 3 Months,46-55,High
+3728,41,Female,Socks,Clothing,83,Maine,M,Gold,Summer,3.5,No,No,17,Debit Card,Bi-Weekly,36-45,High
+3731,46,Female,Shirt,Clothing,79,Florida,M,Teal,Summer,2.5,No,No,3,Credit Card,Bi-Weekly,46-55,High
+3732,54,Female,Hat,Accessories,62,West Virginia,M,Lavender,Spring,3.1,No,No,45,PayPal,Quarterly,46-55,Medium
+3733,36,Female,Shoes,Footwear,92,Indiana,L,Pink,Spring,3.3,No,No,28,PayPal,Annually,36-45,High
+3735,38,Female,Hoodie,Clothing,88,California,M,Beige,Spring,3.4,No,No,33,Debit Card,Every 3 Months,36-45,High
+3736,38,Female,Sandals,Footwear,44,Massachusetts,L,Orange,Spring,3.1,No,No,29,PayPal,Annually,36-45,Medium
+3737,42,Female,Jeans,Clothing,56,Idaho,M,Red,Spring,4.6,No,No,2,PayPal,Every 3 Months,36-45,Medium
+3739,34,Female,Shorts,Clothing,45,Delaware,M,Brown,Spring,2.7,No,No,48,Cash,Fortnightly,26-35,Medium
+3740,38,Female,Sunglasses,Accessories,31,Idaho,M,Olive,Fall,4.2,No,No,43,Credit Card,Weekly,36-45,Medium
+3741,42,Female,Pants,Clothing,96,Virginia,M,Silver,Summer,2.6,No,No,26,Debit Card,Bi-Weekly,36-45,High
+3747,53,Female,Coat,Outerwear,99,Idaho,XL,Cyan,Summer,2.6,No,No,49,PayPal,Monthly,46-55,High
+3749,34,Female,Backpack,Accessories,25,Delaware,M,Violet,Fall,3.9,No,No,3,Venmo,Annually,26-35,Low
+3751,42,Female,Hoodie,Clothing,88,Arizona,M,Gold,Fall,3.1,No,No,5,PayPal,Monthly,36-45,High
+3752,36,Female,Jewelry,Accessories,97,Alabama,S,Silver,Fall,4.2,No,No,8,Credit Card,Every 3 Months,36-45,High
+3754,39,Female,Sunglasses,Accessories,26,Louisiana,S,Turquoise,Winter,4.2,No,No,22,Bank Transfer,Fortnightly,36-45,Low
+3755,46,Female,Shoes,Footwear,41,Nebraska,M,Turquoise,Summer,4.4,No,No,10,Cash,Every 3 Months,46-55,Medium
+3760,44,Female,Sneakers,Footwear,61,Missouri,M,Pink,Spring,3.5,No,No,30,Venmo,Quarterly,36-45,Medium
+3765,36,Female,Socks,Clothing,21,South Dakota,M,Maroon,Fall,3.5,No,No,19,Venmo,Monthly,36-45,Low
+3769,50,Female,Sweater,Clothing,35,Vermont,M,Yellow,Winter,4.0,No,No,34,Bank Transfer,Quarterly,46-55,Medium
+3770,51,Female,Gloves,Accessories,87,Arizona,L,Green,Summer,3.6,No,No,31,Venmo,Annually,46-55,High
+3773,44,Female,Pants,Clothing,26,New Hampshire,L,Yellow,Fall,3.1,No,No,35,Cash,Annually,36-45,Low
+3776,41,Female,Belt,Accessories,63,South Dakota,S,Pink,Spring,2.7,No,No,45,Cash,Quarterly,36-45,Medium
+3778,43,Female,Shorts,Clothing,65,Utah,M,Maroon,Fall,4.3,No,No,9,Cash,Weekly,36-45,Medium
+3781,54,Female,Sneakers,Footwear,57,Mississippi,L,Yellow,Fall,4.1,No,No,41,Venmo,Quarterly,46-55,Medium
+3782,52,Female,Boots,Footwear,99,Tennessee,M,Pink,Winter,3.7,No,No,40,PayPal,Fortnightly,46-55,High
+3783,40,Female,Jacket,Outerwear,45,Alabama,L,Orange,Spring,2.8,No,No,42,PayPal,Fortnightly,36-45,Medium
+3784,39,Female,Gloves,Accessories,66,Maine,XL,Orange,Summer,3.2,No,No,17,Debit Card,Fortnightly,36-45,Medium
+3785,54,Female,Socks,Clothing,53,Virginia,M,Violet,Winter,4.5,No,No,4,Venmo,Annually,46-55,Medium
+3787,31,Female,Boots,Footwear,47,Tennessee,L,Yellow,Fall,3.6,No,No,22,Venmo,Weekly,26-35,Medium
+3788,37,Female,Blouse,Clothing,80,New York,M,Pink,Fall,3.6,No,No,46,PayPal,Every 3 Months,36-45,High
+3789,43,Female,Hat,Accessories,65,Kansas,XL,Teal,Spring,3.2,No,No,27,Debit Card,Monthly,36-45,Medium
+3792,40,Female,Sunglasses,Accessories,51,Texas,M,Gray,Spring,3.7,No,No,1,Venmo,Weekly,36-45,Medium
+3793,43,Female,Scarf,Accessories,58,Massachusetts,S,Turquoise,Summer,2.6,No,No,2,PayPal,Fortnightly,36-45,Medium
+3795,44,Female,Scarf,Accessories,82,South Dakota,M,Violet,Summer,3.6,No,No,27,Venmo,Weekly,36-45,High
+3796,45,Female,Gloves,Accessories,92,Arkansas,M,Charcoal,Spring,2.5,No,No,3,Cash,Weekly,36-45,High
+3797,40,Female,Shorts,Clothing,81,Utah,M,Lavender,Fall,3.2,No,No,47,Bank Transfer,Quarterly,36-45,High
+3804,48,Female,Handbag,Accessories,55,Connecticut,M,Violet,Spring,3.6,No,No,14,Debit Card,Weekly,46-55,Medium
+3805,37,Female,Hat,Accessories,77,Florida,M,Olive,Fall,2.7,No,No,45,Cash,Annually,36-45,High
+3806,48,Female,Scarf,Accessories,57,New Jersey,M,Green,Fall,3.1,No,No,31,Credit Card,Quarterly,46-55,Medium
+3808,38,Female,Blouse,Clothing,39,Michigan,L,Peach,Spring,2.9,No,No,36,PayPal,Annually,36-45,Medium
+3809,33,Female,Socks,Clothing,28,Washington,M,Pink,Winter,4.7,No,No,6,Debit Card,Bi-Weekly,26-35,Low
+3811,46,Female,Skirt,Clothing,79,Wisconsin,L,Peach,Fall,3.9,No,No,29,Venmo,Monthly,46-55,High
+3812,46,Female,Belt,Accessories,30,Idaho,M,Maroon,Winter,4.0,No,No,14,Cash,Monthly,46-55,Low
+3813,50,Female,Skirt,Clothing,75,Michigan,M,Pink,Spring,2.8,No,No,7,Bank Transfer,Every 3 Months,46-55,High
+3815,45,Female,Dress,Clothing,95,Michigan,M,Orange,Winter,4.2,No,No,26,Bank Transfer,Every 3 Months,36-45,High
+3816,32,Female,Hat,Accessories,44,Maine,M,Brown,Fall,4.3,No,No,12,Venmo,Fortnightly,26-35,Medium
+3820,36,Female,Pants,Clothing,99,Arkansas,S,Gold,Spring,2.9,No,No,45,Cash,Quarterly,36-45,High
+3821,34,Female,Belt,Accessories,65,New Hampshire,M,Purple,Winter,5.0,No,No,34,Debit Card,Quarterly,26-35,Medium
+3824,50,Female,Shirt,Clothing,42,California,M,Gold,Summer,3.0,No,No,27,Bank Transfer,Weekly,46-55,Medium
+3825,54,Female,Shorts,Clothing,26,Georgia,M,Olive,Summer,4.0,No,No,31,Credit Card,Quarterly,46-55,Low
+3826,49,Female,Shorts,Clothing,35,Hawaii,L,Green,Fall,4.1,No,No,47,Debit Card,Fortnightly,46-55,Medium
+3827,50,Female,Jacket,Outerwear,31,Montana,M,Gray,Summer,4.0,No,No,25,Bank Transfer,Annually,46-55,Medium
+3829,42,Female,Blouse,Clothing,82,Mississippi,M,Charcoal,Spring,3.4,No,No,8,Cash,Weekly,36-45,High
+3832,36,Female,Backpack,Accessories,86,Nevada,L,Silver,Spring,4.0,No,No,16,Debit Card,Every 3 Months,36-45,High
+3834,44,Female,Jacket,Outerwear,93,Arizona,L,Gray,Summer,4.6,No,No,17,PayPal,Every 3 Months,36-45,High
+3835,43,Female,Hoodie,Clothing,59,Tennessee,M,Magenta,Winter,4.1,No,No,17,Cash,Quarterly,36-45,Medium
+3838,45,Female,Hoodie,Clothing,100,New Mexico,M,Green,Spring,4.8,No,No,33,Bank Transfer,Fortnightly,36-45,High
+3839,47,Female,Dress,Clothing,25,Rhode Island,L,Green,Summer,4.2,No,No,24,Venmo,Every 3 Months,46-55,Low
+3843,35,Female,Jacket,Outerwear,84,Colorado,L,Lavender,Winter,4.2,No,No,42,Debit Card,Monthly,26-35,High
+3850,46,Female,Hoodie,Clothing,68,Florida,S,Cyan,Winter,2.6,No,No,36,PayPal,Fortnightly,46-55,Medium
+3852,50,Female,Scarf,Accessories,83,Montana,M,Pink,Summer,3.9,No,No,24,Debit Card,Annually,46-55,High
+3856,40,Female,Shirt,Clothing,61,Illinois,XL,Lavender,Summer,4.4,No,No,36,Cash,Quarterly,36-45,Medium
+3857,39,Female,Sandals,Footwear,78,Virginia,S,Brown,Summer,2.5,No,No,8,Debit Card,Quarterly,36-45,High
+3858,42,Female,Hat,Accessories,21,Texas,S,Yellow,Summer,3.1,No,No,29,Credit Card,Every 3 Months,36-45,Low
+3864,40,Female,Scarf,Accessories,35,New Hampshire,M,Orange,Summer,3.3,No,No,28,Cash,Fortnightly,36-45,Medium
+3865,55,Female,T-shirt,Clothing,99,Wyoming,S,Blue,Winter,4.9,No,No,1,Debit Card,Fortnightly,46-55,High
+3868,46,Female,Jacket,Outerwear,21,Maryland,L,Lavender,Summer,2.7,No,No,28,Credit Card,Monthly,46-55,Low
+3872,55,Female,T-shirt,Clothing,97,Minnesota,M,Black,Fall,4.1,No,No,20,Bank Transfer,Every 3 Months,46-55,High
+3873,41,Female,Jacket,Outerwear,94,New Hampshire,M,Green,Spring,4.3,No,No,3,Cash,Monthly,36-45,High
+3874,42,Female,Sandals,Footwear,43,Louisiana,L,Silver,Summer,4.0,No,No,22,Credit Card,Weekly,36-45,Medium
+3881,42,Female,Shirt,Clothing,20,Massachusetts,M,Red,Winter,3.9,No,No,40,PayPal,Monthly,36-45,Low
+3883,35,Female,Pants,Clothing,95,North Dakota,L,Blue,Fall,2.6,No,No,24,Cash,Fortnightly,26-35,High
+3884,34,Female,Hat,Accessories,38,North Dakota,XL,Purple,Fall,4.0,No,No,22,Cash,Fortnightly,26-35,Medium
+3885,47,Female,Sandals,Footwear,29,Maryland,M,Brown,Fall,4.9,No,No,3,PayPal,Weekly,46-55,Low
+3886,49,Female,Socks,Clothing,64,New Mexico,L,Purple,Winter,3.2,No,No,39,Cash,Quarterly,46-55,Medium
+3887,37,Female,Jewelry,Accessories,92,Iowa,S,Brown,Summer,3.9,No,No,40,Debit Card,Quarterly,36-45,High
+3888,40,Female,Shirt,Clothing,34,Kansas,M,Charcoal,Spring,2.7,No,No,1,Credit Card,Quarterly,36-45,Medium
+3889,45,Female,Sneakers,Footwear,69,Virginia,M,Violet,Spring,3.4,No,No,14,Venmo,Bi-Weekly,36-45,Medium
+3891,35,Female,Shirt,Clothing,81,Nebraska,XL,Green,Winter,2.6,No,No,33,Debit Card,Annually,26-35,High
+3892,36,Female,Dress,Clothing,30,Colorado,L,Peach,Winter,4.7,No,No,6,Bank Transfer,Quarterly,36-45,Low
+3893,35,Female,Jewelry,Accessories,86,Michigan,L,Indigo,Summer,3.5,No,No,5,PayPal,Fortnightly,26-35,High
+3896,40,Female,Hoodie,Clothing,28,Virginia,L,Turquoise,Summer,4.2,No,No,32,Venmo,Weekly,36-45,Low
+3897,52,Female,Backpack,Accessories,49,Iowa,L,White,Spring,4.5,No,No,41,Bank Transfer,Bi-Weekly,46-55,Medium
+3898,46,Female,Belt,Accessories,33,New Jersey,L,Green,Spring,2.9,No,No,24,Venmo,Quarterly,46-55,Medium
+3899,44,Female,Shoes,Footwear,77,Minnesota,S,Brown,Summer,3.8,No,No,24,Venmo,Weekly,36-45,High
+3900,52,Female,Handbag,Accessories,81,California,M,Beige,Spring,3.1,No,No,33,Venmo,Quarterly,46-55,High

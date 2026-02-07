@@ -1,3 +1,4 @@
+import asyncio
 import json
 from agentfield import AgentRouter
 from pydantic import BaseModel, Field
@@ -33,86 +34,132 @@ class PriceAndProductDescription(BaseModel):
 
 @reasoners_router.reasoner()
 async def entrypoint(message: str) -> dict:
-    """
-    Simple echo reasoner - works without AI configured.
-
-    Example usage:
-    curl -X POST http://localhost:8080/api/v1/execute/my-agent.demo_echo \
-      -H "Content-Type: application/json" \
-      -d '{"input": {"message": "Hello World"}}'
-    """
-    print('entry 1')
+    print('entry 1: Parsing Input')
+    # 1. Extract price and description from user message
     result = await reasoners_router.ai(
         system="You are a language parser.",
         user=f"Given this message: {message}. Extract price and product description information",
         schema=PriceAndProductDescription
     )
     
-    print('entry 2')
-    r1 = await agent_1_sentiment(result.product_description, result.price)
-    r1_dict = json.loads(r1)
-    print('entry 3')
+    # 2. Prepare the list of agent functions
+    agents = [
+        agent_1_sentiment, 
+        agent_2_sentiment, 
+        agent_3_sentiment, 
+        agent_4_sentiment, 
+        agent_5_sentiment
+    ]
 
-    # Add a note for observabilitys
-    reasoners_router.app.note(
-        f"Analyzed sentiment: {r1_dict.reasoning} (confidence: {r1_dict.probability})",
-        tags=["reasoning", "probability"]
+    print('entry 2: Running Personas in Parallel')
+    # 3. Fire all 5 agents at the same time
+    # This replaces the need for r1, r2, r3, r4, r5 variables
+    persona_responses = await asyncio.gather(
+        *[agent(result.product_description, result.price) for agent in agents]
     )
-    print('entry 4')
+
+    # 4. Process results and add notes for observability
+    for i, r_dict in enumerate(persona_responses):
+        # NOTE: No json.loads() needed here because r_dict is already a dict
+        reasoners_router.app.note(
+            f"Persona {i+1} Result: {r_dict['reasoning']} (prob: {r_dict['probability']})",
+            tags=[f"persona_{i+1}", "sentiment"]
+        )
     
-    r2 = await agent_2_sentiment(result.product_description, result.price)
-    r2_dict = json.loads(r2)
-
-
-
-    # Add a note for observabilitys
-    reasoners_router.app.note(
-        f"Analyzed sentiment: {r2_dict.reasoning} (confidence: {r2_dict.probability})",
-        tags=["reasoning", "probability"]
-    )
-    
-    r3 = await agent_3_sentiment(result.product_description, result.price)
-    r3_dict = json.loads(r3)
-
-    # Add a note for observabilitys
-    reasoners_router.app.note(
-        f"Analyzed sentiment: {r3_dict.reasoning} (confidence: {r3_dict.probability})",
-        tags=["reasoning", "probability"]
-    )
-    
-    r4 = await agent_4_sentiment(result.product_description, result.price)
-    r4_dict = json.loads(r4)
-
-    print('entry 10')
-
-
-    # Add a note for observabilitys
-    reasoners_router.app.note(
-        f"Analyzed sentiment: {r4_dict.reasoning} (confidence: {r4_dict.probability})",
-        tags=["reasoning", "probability"]
-    )
-    
-    r5 = await agent_5_sentiment(result.product_description, result.price)
-    r5_dict = json.loads(r5)
-
-    # Add a note for observabilitys
-    reasoners_router.app.note(
-        f"Analyzed sentiment: {r5_dict.reasoning} (confidence: {r5_dict.probability})",
-        tags=["reasoning", "probability"]
-    )
-    print('entry 15')
-    
-    
-    ressearch_results = await reasoners_router.ai(
-        system="You are a professional market research presenter. We will be giving you information from 5 groups of participants with each data point having probability of purchase and reasoning. Present the results in a professional manner. ",
-        user=f"Given this results from participants: {r1}, {r2}, {r3}, {r4}, {r5}. Consolidate this to nice summary of research result. Provide recommendation.",
+    print('entry 3: Generating Final Summary')
+    # 5. Pass all results to the final researcher AI
+    # We use json.dumps here because we want to turn our list of dicts into a string for the AI
+    research_results = await reasoners_router.ai(
+        system="You are a professional market research presenter. Consolidate results from 5 personas into a professional summary and recommendation.",
+        user=f"Persona Data: {json.dumps(persona_responses)}",
         schema=ResearchResults
     )
     
-    print('entry 4')
+    return research_results.model_dump()
+
+# @reasoners_router.reasoner()
+# async def entrypoint(message: str) -> dict:
+#     """
+#     Simple echo reasoner - works without AI configured.
+
+#     Example usage:
+#     curl -X POST http://localhost:8080/api/v1/execute/my-agent.demo_echo \
+#       -H "Content-Type: application/json" \
+#       -d '{"input": {"message": "Hello World"}}'
+#     """
+#     print('entry 1')
+#     result = await reasoners_router.ai(
+#         system="You are a language parser.",
+#         user=f"Given this message: {message}. Extract price and product description information",
+#         schema=PriceAndProductDescription
+#     )
+    
+#     print('entry 2')
+#     r1 = await agent_1_sentiment(result.product_description, result.price)
+#     print('r1')
+#     print(r1)
+#     r1_dict = json.loads(r1)
+#     print(r1_dict)
+#     print('entry 3')
+
+#     # Add a note for observabilitys
+#     reasoners_router.app.note(
+#         f"Analyzed sentiment: {r1_dict.reasoning} (confidence: {r1_dict.probability})",
+#         tags=["reasoning", "probability"]
+#     )
+#     print('entry 4')
+    
+#     r2 = await agent_2_sentiment(result.product_description, result.price)
+#     r2_dict = json.loads(r2)
+
+
+
+#     # Add a note for observabilitys
+#     reasoners_router.app.note(
+#         f"Analyzed sentiment: {r2_dict.reasoning} (confidence: {r2_dict.probability})",
+#         tags=["reasoning", "probability"]
+#     )
+    
+#     r3 = await agent_3_sentiment(result.product_description, result.price)
+#     r3_dict = json.loads(r3)
+
+#     # Add a note for observabilitys
+#     reasoners_router.app.note(
+#         f"Analyzed sentiment: {r3_dict.reasoning} (confidence: {r3_dict.probability})",
+#         tags=["reasoning", "probability"]
+#     )
+    
+#     r4 = await agent_4_sentiment(result.product_description, result.price)
+#     r4_dict = json.loads(r4)
+
+#     print('entry 10')
+
+
+#     # Add a note for observabilitys
+#     reasoners_router.app.note(
+#         f"Analyzed sentiment: {r4_dict.reasoning} (confidence: {r4_dict.probability})",
+#         tags=["reasoning", "probability"]
+#     )
+    
+#     r5 = await agent_5_sentiment(result.product_description, result.price)
+#     r5_dict = json.loads(r5)
+
+#     # Add a note for observabilitys
+#     reasoners_router.app.note(
+#         f"Analyzed sentiment: {r5_dict.reasoning} (confidence: {r5_dict.probability})",
+#         tags=["reasoning", "probability"]
+#     )
+    
+    
+#     ressearch_results = await reasoners_router.ai(
+#         system="You are a professional market research presenter. We will be giving you information from 5 groups of participants with each data point having probability of purchase and reasoning. Present the results in a professional manner. ",
+#         user=f"Given this results from participants: {r1}, {r2}, {r3}, {r4}, {r5}. Consolidate this to nice summary of research result. Provide recommendation.",
+#         schema=ResearchResults
+#     )
+    
     
 
-    return ressearch_results.model_dump()
+#     return ressearch_results.model_dump()
 
 # 🔧 Uncomment when AI is configured in main.py:
 # class PurchaseResults(BaseModel):
